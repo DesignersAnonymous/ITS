@@ -110,7 +110,7 @@ Retreats Description: "# **Be You Boutique Retreat**\nInvest in You!\n\U0001D611
   \U0001D42C\U0001D428\U0001D426\U0001D41E\U0001D42D\U0001D421\U0001D422\U0001D427\U0001D420
   \U0001D427\U0001D41E\U0001D430.\n\n"
 Retreats Images:
-- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.16.jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.16-489d99.jpeg"
 - "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.16%20(1).jpeg"
 - "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(2).jpeg"
 - "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(4).jpeg"
