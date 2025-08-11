@@ -29,6 +29,7 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
+- "/uploads/wellnessretreat1.jpg"
 Retreats Title: Retreats
 Retreats Description: "**Be You Boutique Retreat**\n\nInvest in You!\n\n\U0001D611\U0001D630\U0001D62A\U0001D62F
   \U0001D46A\U0001D482\U0001D48E\U0001D48A\U0001D48D\U0001D48D\U0001D486 \U0001D627\U0001D630\U0001D636\U0001D62F\U0001D625\U0001D626\U0001D633
