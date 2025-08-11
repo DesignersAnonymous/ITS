@@ -30,7 +30,7 @@ Spa Days Images:
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
 Retreats Title: Retreats
-Retreats Description: "# **Be You Boutique Retreat**\n\n\U0001D611\U0001D630\U0001D62A\U0001D62F
+Retreats Description: "# **Be You Boutique Retreat**\nInvest in You!\n\U0001D611\U0001D630\U0001D62A\U0001D62F
   \U0001D46A\U0001D482\U0001D48E\U0001D48A\U0001D48D\U0001D48D\U0001D486 \U0001D627\U0001D630\U0001D636\U0001D62F\U0001D625\U0001D626\U0001D633
   \U0001D630\U0001D627 \U0001D401\U0001D41E \U0001D418\U0001D40E\U0001D414 \U0001D416\U0001D41E\U0001D425\U0001D425\U0001D41B\U0001D41E\U0001D422\U0001D427\U0001D420
   & \U0001D47B\U0001D482\U0001D494\U0001D489 \U0001D627\U0001D630\U0001D636\U0001D62F\U0001D625\U0001D626\U0001D633
@@ -110,10 +110,14 @@ Retreats Description: "# **Be You Boutique Retreat**\n\n\U0001D611\U0001D630\U00
   \U0001D42C\U0001D428\U0001D426\U0001D41E\U0001D42D\U0001D421\U0001D422\U0001D427\U0001D420
   \U0001D427\U0001D41E\U0001D430.\n\n"
 Retreats Images:
-- "/uploads/priscilla-du-preez-nF8xhLMmg0c-unsplash.jpeg"
-- "/uploads/Screenshot%202023-02-16%20at%2014.10.28.jpg"
-- "/uploads/lesly-juarez-DFtjXYd5Pto-unsplash.jpeg"
-- "/uploads/Screenshot%202025-08-11%20at%2018.22.05.png"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.16.jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.16%20(1).jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(2).jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(4).jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(5).jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17.jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(3).jpeg"
+- "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(6).jpeg"
 Yoga Title: E bikes
 YOGA Description: 'New for 2025 we now have two E bikes on site which are available
   for guests to hire. These can be added as an extra on booking or enquire on arrival.
