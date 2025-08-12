@@ -117,7 +117,7 @@ Retreats Images:
 - "/uploads/wellnessretreat6.jpg"
 - "/uploads/wellnessretreat3.jpg"
 - "/uploads/wellnessretreat4.jpg"
-- "/uploads/Untitled%20design.jpg"
+- "/uploads/wellnessretreats8.jpg"
 - "/uploads/wellnessretreat2.jpg"
 Yoga Title: E bikes
 YOGA Description: 'New for 2025 we now have two E bikes on site which are available
