@@ -1871,3 +1871,17 @@ header:not(.hero):after {
     text-decoration: underline;
     color: #DA5626;
 }
+/* Responsive Google Map */
+.map-header iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3; /* keeps a nice proportion */
+    max-width: 100%;
+    border: 0;
+}
+
+@media (max-width: 768px) {
+    .map-header iframe {
+        aspect-ratio: 1 / 1; /* square map for mobile */
+    }
+}
