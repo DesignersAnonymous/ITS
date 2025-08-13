@@ -1885,3 +1885,25 @@ header:not(.hero):after {
         aspect-ratio: 1 / 1; /* square map for mobile */
     }
 }
+
+/* Desktop: line up left-column footer items with bottom of the map */
+@media (min-width: 1024px) {
+  /* make both footer columns equal height */
+  footer .container.flex { align-items: stretch; }
+
+  /* turn columns into vertical flex stacks */
+  footer .left,
+  footer .right { display: flex; flex-direction: column; }
+
+  /* push everything AFTER the newsletter to the bottom:
+     i.e., the social icons and the "Designers Anonymous" credit */
+  footer .left .newsletter { margin-bottom: auto; }
+
+  /* make the map block consume the column height so its bottom is the reference */
+  footer .map-header { display: flex; flex-direction: column; height: 100%; }
+  footer .map-embed--footer { flex: 1; }  /* map grows to fill, keeping aspect ratio */
+  
+  /* optional spacing so the two bottom items don’t collide */
+  footer .social-links { margin-top: 16px; }
+  footer .left small { display: block; margin-top: 12px; }
+}
