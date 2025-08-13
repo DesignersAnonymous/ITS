@@ -1907,3 +1907,38 @@ header:not(.hero):after {
   footer .social-links { margin-top: 16px; }
   footer .left small { display: block; margin-top: 12px; }
 }
+
+/* === Footer layout tweaks (paste at end of style/style.css) === */
+
+/* Keep the map responsive, but cap the height on desktop so the left
+   column content can sit closer together */
+@media (min-width: 1024px) {
+  /* Make both footer columns equal height */
+  footer .container.flex { align-items: stretch; }
+
+  /* Turn columns into vertical stacks */
+  footer .left,
+  footer .right { display: flex; flex-direction: column; }
+
+  /* Let the map area fill its column, but keep the iframe height modest */
+  footer .map-header { display: flex; flex-direction: column; }
+  footer .map-header iframe {
+    aspect-ratio: auto;   /* override mobile square */
+    height: 380px;        /* << adjust to taste (e.g. 340–420px) */
+    max-height: 45vh;     /* safety cap on very tall screens */
+  }
+
+  /* Close the gap: keep newsletter just above socials,
+     and push ONLY the socials (and credit) to the bottom */
+  footer .left .newsletter { margin-bottom: 12px; } /* was 30px */
+  footer .left .social-links { margin-top: auto; }  /* sits at bottom */
+  footer .left small { display: block; margin-top: 8px; }
+  
+  /* Give the whole footer more breathing room at the bottom */
+  footer { padding-bottom: 80px; } /* increase if you want even more */
+}
+
+/* Mobile map stays square */
+@media (max-width: 768px) {
+  .map-header iframe { aspect-ratio: 1 / 1; }
+}
