@@ -1202,7 +1202,7 @@ footer .menu ul a:hover {
 
 .map {
     width: 100%;
-    height: 400px;
+    height: 340px;
 }
 
 .map-header {
@@ -1931,7 +1931,7 @@ header:not(.hero):after {
   /* Close the gap: keep newsletter just above socials,
      and push ONLY the socials (and credit) to the bottom */
   footer .left .newsletter { margin-bottom: 12px; } /* was 30px */
-  footer .left .social-links { margin-top: auto; }  /* sits at bottom */
+  footer .left .social-links { margin-top: auto; }  /* sits under newsletter */
   footer .left small { display: block; margin-top: 8px; }
   
   /* Give the whole footer more breathing room at the bottom */
