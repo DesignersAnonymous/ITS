@@ -1942,3 +1942,11 @@ header:not(.hero):after {
 @media (max-width: 768px) {
   .map-header iframe { aspect-ratio: 1 / 1; }
 }
+
+/* Trim the forced height and extra padding in the footer */
+footer { min-height: 0; }           /* or: min-height: unset; */
+
+@media (min-width: 1024px) {
+  footer { padding-bottom: 24px; }  /* adjust to taste, or set to 0 */
+  footer .map-header { margin-bottom: 0; }
+}
