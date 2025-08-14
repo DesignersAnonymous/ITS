@@ -1924,7 +1924,7 @@ header:not(.hero):after {
   footer .map-header { display: flex; flex-direction: column; }
   footer .map-header iframe {
     aspect-ratio: auto;   /* override mobile square */
-    height: 360px;        /* << adjust to taste (e.g. 340–420px) */
+    height: 400px;        /* << adjust to taste (e.g. 340–420px) */
     max-height: 45vh;     /* safety cap on very tall screens */
   }
 
