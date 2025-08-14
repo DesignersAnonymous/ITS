@@ -110,6 +110,7 @@ Retreats Description: "**Be You Boutique Retreat**\n\nInvest in You!\n\n\U0001D6
   \U0001D42C\U0001D428\U0001D426\U0001D41E\U0001D42D\U0001D421\U0001D422\U0001D427\U0001D420
   \U0001D427\U0001D41E\U0001D430.\n\n"
 Retreats Images:
+- "/uploads/retreats_test.jpg"
 - "/uploads/wellnessretreat1.jpg"
 - "/uploads/wellnessretreat7.jpg"
 - "/uploads/wellnessretreat5.jpg"
