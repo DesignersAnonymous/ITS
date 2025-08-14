@@ -1973,3 +1973,41 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 /* If you’d like a slightly shorter slide to reduce vertical space,
    use this instead of the global 440px: */
 #retreats .owl-item .item { height: 380px; }   /* try 360–400px to taste */
+}
+
+/* === Wellness > Retreats carousel layout fixes === */
+
+/* 1) Stop the global 84% width gutter for this carousel */
+#retreats .owl-wrapper-outer,
+#retreats .owl-stage-outer {  /* v2 alias, harmless on v1 */
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+/* 2) Remove item padding that can create inner gaps */
+#retreats .owl-item { padding: 0 !important; }
+
+/* 3) Make images fill their slide cleanly */
+#retreats .owl-item .item img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;   /* keeps the uniform slide height */
+  object-fit: cover;
+}
+
+/* 4) If your slides are fixed at 440px tall, you can trim them a bit */
+#retreats .owl-item .item { height: 380px; } /* try 360–400px to taste */
+
+/* 5) Those giant next/prev click zones make the carousel look taller/gappy.
+      Keep them full-height but remove the 40vh padding. */
+#retreats .owl-prev,
+#retreats .owl-next {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 100% !important;
+}
+
+/* Optional: make the arrows’ hit area reasonable without affecting height */
+#retreats .owl-prev:after,
+#retreats .owl-next:after { pointer-events: none; } /* keep clicks working on containers */
+}
