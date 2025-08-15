@@ -118,7 +118,7 @@ Retreats Images:
 - "/uploads/wellnessretreat4.jpg"
 - "/uploads/wellnessretreats8.jpg"
 - "/uploads/wellnessretreat2.jpg"
-- "/uploads/in_the_stix_your_adventures_await%20(edited).jpg"
+- "/uploads/Screenshot%202025-03-10%20at%2017.37.40-5a82fb.jpeg"
 Yoga Title: E bikes
 YOGA Description: 'New for 2025 we now have two E bikes on site which are available
   for guests to hire. These can be added as an extra on booking or enquire on arrival.
