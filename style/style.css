@@ -1975,16 +1975,10 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 #retreats .owl-item .item { height: 380px; }   /* try 360–400px to taste */
 }
 
-/* Make Retreats carousel behave exactly like Spa Days */
-#retreats .owl-item .item { 
-  height: 440px;                  /* same fixed frame height */
-}
-
+/* Retreats carousel: let images size naturally */
+#retreats .owl-item .item { height: auto; }
 #retreats .owl-item .item img {
-  display: block;
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover;              /* crop to fill frame */
-  object-position: center;
+  height: auto !important;    /* stop the forced 100% height */
+  object-fit: contain;        /* show full image without cropping */
 }
 
