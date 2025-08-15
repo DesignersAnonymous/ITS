@@ -23,11 +23,13 @@ layout: default
             </div>
             <div class="right">
                 <!-- Spa Days -->
-<div id="owl-spa" class="owl-demo owl-carousel owl-theme">
-                    {% for image in page.["Spa Days Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Spa Days"></div>
-                    {% endfor %}
-                </div>  
+<div class="owl-carousel owl-theme">
+  {% for image in page.["Spa Days Images"] %}
+  <div class="item frame">
+    <img class="owl-img" src="{{ image }}" alt="Spa Days">
+  </div>
+  {% endfor %}
+</div>
             </div>
         </div>
     </section>
@@ -39,17 +41,13 @@ layout: default
             
             </div>
            <div class="right">
-  <div id="owl-retreats" class="owl-carousel owl-theme">
-    {% for image in page.["Retreats Images"] %}
-      <div class="item" style="height:440px">
-        <img
-          src="{{ image }}"
-          alt="Retreats"
-          style="display:block;width:100%;height:100%;object-fit:cover;object-position:center"
-        />
-      </div>
-    {% endfor %}
+ <div class="owl-carousel owl-theme">
+  {% for image in page.["Retreats Images"] %}
+  <div class="item frame">
+    <img class="owl-img" src="{{ image }}" alt="Retreats">
   </div>
+  {% endfor %}
+</div>
 </div>
         </div>
     </section>
@@ -62,11 +60,13 @@ layout: default
             </div>
             <div class="right">
                 <!-- Yoga -->
-<div id="owl-yoga" class="owl-demo owl-carousel owl-theme">
-                    {% for image in page.["YOGA Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Yoga"></div>
-                    {% endfor %}
-                </div>  
+<div class="owl-carousel owl-theme">
+  {% for image in page.["Yoga Images"] %}
+  <div class="item frame">
+    <img class="owl-img" src="{{ image }}" alt="Yoga">
+  </div>
+  {% endfor %}
+</div> 
             </div>
         </div>
     </section>
