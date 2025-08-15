@@ -38,14 +38,19 @@ layout: default
             <p>{{ page.["Retreats Description"] | markdownify }}</p>
             
             </div>
-            <div class="right">
-                <!-- Retreats -->
-<div id="owl-retreats" class="owl-demo owl-carousel owl-theme">
-                    {% for image in page.["Retreats Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Retreats"></div>
-                    {% endfor %}
-                </div>  
-            </div>
+           <div class="right">
+  <div id="owl-retreats" class="owl-carousel owl-theme">
+    {% for image in page.["Retreats Images"] %}
+      <div class="item" style="height:440px">
+        <img
+          src="{{ image }}"
+          alt="Retreats"
+          style="display:block;width:100%;height:100%;object-fit:cover;object-position:center"
+        />
+      </div>
+    {% endfor %}
+  </div>
+</div>
         </div>
     </section>
     <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
