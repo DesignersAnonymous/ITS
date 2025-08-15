@@ -46,6 +46,24 @@ layout: default
             </div>
         </div>
     </section>
+    <style>
+  /* Debug: draw the exact frame the image should fill */
+  #retreats .owl-item .item { 
+    height: 440px !important;
+    outline: 2px dashed magenta !important;
+  }
+
+  /* Make the img fill & crop like Spa Days */
+  #retreats .owl-item .item img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    max-width: none !important;
+  }
+        
+</style>
     <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
         <div class="container flex">
             <div class="left">
