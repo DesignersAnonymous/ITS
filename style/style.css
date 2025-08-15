@@ -1982,24 +1982,19 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   object-fit: contain;        /* show full image without cropping */
 }
 
-/* === Force Retreats carousel to match Spa Days === */
-
-/* Same fixed frame height as Spa Days */
-#retreats .owl-stage-outer,
-#retreats .owl-stage,
-#retreats .owl-item,
-#retreats .owl-item .item,
-#retreats .owl-height { 
-  height: 440px !important;
+/* Same fixed frame as Spa Days */
+#retreats .owl-item .item { 
+  height: 440px; 
+  position: relative;          /* enable absolute child */
+  overflow: hidden;            /* clip any overflow just in case */
 }
 
-/* Make the image fill that frame just like Spa Days */
+/* Hard-override how the image fills that frame */
 #retreats .owl-item .item img {
+  position: absolute !important;
+  inset: 0 !important;         /* top:0; right:0; bottom:0; left:0 */
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
   object-position: center !important;
 }
-
-/* Safety: ensure nothing spills outside the frame */
-#retreats .owl-stage-outer { overflow: hidden !important; }
