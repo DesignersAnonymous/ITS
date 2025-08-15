@@ -1998,3 +1998,22 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   object-fit: cover !important;
   object-position: center !important;
 }
+
+/* === Standardise ALL Owl carousels (Spa Days, Retreats, Yoga, Feasting, etc.) === */
+.owl-carousel .owl-stage-outer { overflow: hidden; }
+
+.owl-carousel .item {
+  aspect-ratio: 5 / 3;          /* same “window” Spa Days uses */
+}
+
+.owl-carousel .item img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;             /* crop to fill the frame */
+  object-position: center;
+}
+
+@media (max-width: 768px) {
+  .owl-carousel .item { aspect-ratio: 4 / 3; }
+}
