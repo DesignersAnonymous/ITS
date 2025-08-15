@@ -1998,5 +1998,3 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   object-fit: cover !important;
   object-position: center !important;
 }
-
-#retreats .frame { outline: 3px solid magenta !important; }
