@@ -108,7 +108,7 @@ Retreats Description: "**Be You Boutique Retreat**\n\nInvest in You!\n\n\U0001D6
   \U0001D427\U0001D41A\U0001D42D\U0001D42E\U0001D42B\U0001D41E & \U0001D41A \U0001D41C\U0001D421\U0001D41A\U0001D427\U0001D41C\U0001D41E
   \U0001D42D\U0001D428 \U0001D426\U0001D41A\U0001D432\U0001D41B\U0001D41E \U0001D42D\U0001D42B\U0001D432
   \U0001D42C\U0001D428\U0001D426\U0001D41E\U0001D42D\U0001D421\U0001D422\U0001D427\U0001D420
-  \U0001D427\U0001D41E\U0001D430.\n\n"
+  \U0001D427\U0001D41E\U0001D430..\n\n"
 Retreats Images:
 - "/uploads/wellnessretreat1.jpg"
 - "/uploads/wellnessretreat7.jpg"
@@ -118,7 +118,6 @@ Retreats Images:
 - "/uploads/wellnessretreat4.jpg"
 - "/uploads/wellnessretreats8.jpg"
 - "/uploads/wellnessretreat2.jpg"
-- "/uploads/Screenshot%202025-03-10%20at%2017.37.40-5a82fb.jpeg"
 Yoga Title: E bikes
 YOGA Description: 'New for 2025 we now have two E bikes on site which are available
   for guests to hire. These can be added as an extra on booking or enquire on arrival.
