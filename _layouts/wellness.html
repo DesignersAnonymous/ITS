@@ -58,21 +58,13 @@ layout: default
             <!--<a href="/book-now/#spa" class="btn">Book Now</a>-->
             </div>
             <div class="right">
-            <!-- Yoga -->
-<div class="right">
-  <div class="owl-carousel owl-theme">
-    {% for image in page.["YOGA Images"] %}
-      <div class="item">
-        <img
-          src="{{ image }}"
-          alt="Yoga"
-          class="owl-img"
-          loading="lazy"
-        />
-      </div>
-    {% endfor %}
-  </div>
-</div>
+                <!-- Yoga -->
+<div id="owl-yoga" class="owl-demo owl-carousel owl-theme">
+                    {% for image in page.["YOGA Images"] %}
+                    <div class="item"><img src="{{ image }}" alt="Yoga"></div>
+                    {% endfor %}
+                </div>  
+            </div>
         </div>
     </section>
 </section>
