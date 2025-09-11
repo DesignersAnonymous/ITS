@@ -28,7 +28,7 @@ Retreats Description: |-
 
   Invest in You!
 
-  Join Camille, founder of Be YOU Wellbeing & Tash, founder of The Loft Rutland, Friday 26th - Sunday 28th September for a boutique wellness retreat at In the Stix Rutland. This boutique wellness retreat will endeavor to reconnect YOU, realign your mind & body, & offer a space to simply be. Whether you’re seeking stillness, escapism or simply in need of relaxation this is the retreat for you!
+  Join Camille, founder of Be YOU Wellbeing & Tash, founder of The Loft Rutland, Friday 5th - Sunday 7th June 2026 for a boutique wellness retreat at In the Stix Rutland. This boutique wellness retreat will endeavor to reconnect YOU, realign your mind & body, & offer a space to simply be. Whether you’re seeking stillness, escapism or simply in need of relaxation this is the retreat for you!
 
   Take this time for YOU totally immersed in nature, to escape the everyday & totally relax & reset.
 
