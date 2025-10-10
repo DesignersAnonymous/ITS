@@ -1149,7 +1149,7 @@ footer .menu ul a:hover {
 }
 
 #retreats p {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     color: #555;
 }
 
@@ -1973,7 +1973,7 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 /* If you’d like a slightly shorter slide to reduce vertical space,
    use this instead of the global 440px: */
 #retreats .owl-item .item { height: 380px; }   /* try 360–400px to taste */
-}
+
 
 /* Retreats carousel: let images size naturally */
 #retreats .owl-item .item { height: auto; }
@@ -2002,9 +2002,10 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 /* === Standardise ALL Owl carousels (Spa Days, Retreats, Yoga, Feasting, etc.) === */
 .owl-carousel .owl-stage-outer { overflow: hidden; }
 
-.owl-carousel .item {
-  aspect-ratio: 5 / 3;          /* same “window” Spa Days uses */
-}
+/* .owl-carousel .item { */
+  /* aspect-ratio: 5 / 3; */
+            /* same “window” Spa Days uses */
+/* } */
 
 .owl-carousel .item img {
   display: block;
