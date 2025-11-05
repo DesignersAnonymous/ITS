@@ -4,70 +4,37 @@ layout: default
 ---
 
 <section id="feasting">
-    <div class="hero-image">
-        <div class="centred-content">
-            <h4>{{ page.title }}</h4>
-            <p>{{ page.["Hero Description"] }}</p>
-        </div>
-        <img src="/assets/images/wellness.jpg"> 
+  <div class="hero-image">
+    <div class="centred-content">
+      <h4>{{ page.title }}</h4>
+      <p>{{ page.hero_description }}</p>
     </div>
+    <img src="/assets/images/wellness.jpg">
+  </div>
 </section>
 
 <section id="feastings" class="ripped ripped-cream after-ripped-cream">
-    <section id="spa-days" class="plan facilities-wrapper flex two-col">
-        <div class="container flex">
-            <div class="left">
-            <h4>{{ page.["Spa Days Title"] }}</h4>
-            <p>{{ page.["Spa Days Description"] | markdownify }}</p>
-            <!--<a href="/book-now/#spa" class="btn">Book Now</a>-->
-            </div>
-            <div class="right">
-                <!-- Spa Days -->
-<div class="owl-carousel owl-theme">
-  {% for image in page.["Spa Days Images"] %}
-  <div class="item frame">
-    <img class="owl-img" src="{{ image }}" alt="Spa Days">
-  </div>
-  {% endfor %}
-</div>
-            </div>
+  {% for section in page.sections %}
+    {% assign index = forloop.index0 %}
+    {% assign bg_class = index | modulo: 2 | plus: 1 | prepend: "section-bg-" %}
+    <!-- Alternate background if needed, or just use consistent styling -->
+    <section id="{{ section.title | slugify }}" class="plan facilities-wrapper flex two-col {% cycle 'white', 'ripped-cream' %}">
+      <div class="container flex">
+        <div class="left">
+          <h4>{{ section.title }}</h4>
+          <p>{{ section.description | markdownify }}</p>
+          <!-- Optional: <a href="/book-now/#{{ section.title | slugify }}" class="btn">Book Now</a> -->
         </div>
-    </section>
-    <section id="wellness-retreats" class="plan facilities-wrapper flex two-col white ripped">
-        <div class="container flex">
-            <div class="left">
-            <h4>{{ page.["Retreats Title"] }}</h4>
-            <p>{{ page.["Retreats Description"] | markdownify }}</p>
-            
-            </div>
-           <div class="right">
- <div class="owl-carousel owl-theme">
-  {% for image in page.["Retreats Images"] %}
-  <div class="item frame">
-    <img class="owl-img" src="{{ image }}" alt="Retreats">
-  </div>
-  {% endfor %}
-</div>
-</div>
+        <div class="right">
+          <div class="owl-carousel owl-theme">
+            {% for image in section.images %}
+              <div class="item frame">
+                <img class="owl-img" src="{{ image }}" alt="{{ section.title }}">
+              </div>
+            {% endfor %}
+          </div>
         </div>
+      </div>
     </section>
-    <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
-        <div class="container flex">
-            <div class="left">
-            <h4>{{ page.["Yoga Title"] }}</h4>
-            <p>{{ page.["YOGA Description"] | markdownify }}</p>
-            <!--<a href="/book-now/#spa" class="btn">Book Now</a>-->
-            </div>
-            <div class="right">
-                <!-- Yoga -->
-<div class="owl-carousel owl-theme">
-  {% for image in page.["YOGA Images"] %}
-  <div class="item frame">
-    <img class="owl-img" src="{{ image }}" alt="Yoga">
-  </div>
   {% endfor %}
-</div> 
-            </div>
-        </div>
-    </section>
 </section>

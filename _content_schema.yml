@@ -1,0 +1,18 @@
+# _content_schema.yml
+wellness:
+  sections:
+    type: list
+    label: Sections
+    fields:
+      title:
+        type: string
+        label: Section Title
+      description:
+        type: markdown
+        label: Description
+      images:
+        type: list
+        label: Images
+        fields:
+          - type: image
+            label: Upload Image
