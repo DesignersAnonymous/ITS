@@ -60,6 +60,10 @@ sections:
   description: Darren Description
   images:
   - "/uploads/IMG_9258.PNG"
+- title: Qasim
+  description: This is only for testing
+  images:
+  - "/uploads/WhatsApp%20Image%202025-08-11%20at%2019.14.17%20(4).jpeg"
 layout: wellness
 ---
 
