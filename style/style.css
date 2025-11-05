@@ -1534,7 +1534,7 @@ footer {
 }
 
 .owl-wrapper-outer {
-    /* width: 90% !important; */
+    width: 90% !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }
@@ -1572,7 +1572,7 @@ footer {
 
 
 .right .owl-wrapper-outer {
-    /* width: 84% !important; */
+    width: 84% !important;
 }
 
 .contact-info .container {
@@ -1954,9 +1954,13 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 /* --- Wellness > Retreats carousel fixes --- */
 
 /* Make the carousel fill its column (remove internal gutters) */
-#retreats .owl-wrapper-outer,
-#retreats .owl-stage-outer {
+#wellness-retreats .owl-wrapper-outer{
   width: 100% !important;
+}
+
+#events-retreats .owl-wrapper-outer,
+#retreats .owl-stage-outer {
+  width: 80% !important;
 }
 
 /* Remove any item padding that can create gaps */
