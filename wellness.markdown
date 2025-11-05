@@ -57,9 +57,13 @@ sections:
   - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
   - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
 - title: Darren - Title section
-  description: Darren Description
+  description: This unique opportunity allows you to relax and benefit from the incredible
+    amenities at In the Stix, escape the everyday hustle and bustle, reconnect with
+    friends, and immerse yourself in the ultimate spa experience amidst nature. We
+    can’t wait to welcome you for a day of relaxation and indulgence!
   images:
   - "/uploads/IMG_9258.PNG"
+  - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
 layout: wellness
 ---
 
