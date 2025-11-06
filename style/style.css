@@ -1696,12 +1696,12 @@ header:not(.hero):after {
     height: 440px;
 }
 
-.owl-item .item img {
+/* .owl-item .item img {
     width: 100% !important;
     height: 100% !important;
     object-fit: cover;
     object-position: center;
-}
+} */
 
 .booking-platform-hide {
     overflow: hidden;
@@ -1952,15 +1952,8 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 }
 
 /* --- Wellness > Retreats carousel fixes --- */
-
-/* Make the carousel fill its column (remove internal gutters) */
-#wellness-retreats .owl-wrapper-outer{
-  width: 100% !important;
-}
-
-#events-retreats .owl-wrapper-outer,
-#retreats .owl-stage-outer {
-  width: 80% !important;
+#wellness-retreats .owl-item .item img{
+  width: 85% !important;
 }
 
 /* Remove any item padding that can create gaps */
