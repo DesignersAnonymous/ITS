@@ -22,7 +22,6 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
-Retreats Title: Retreats
 2026 Retreats: "'Becoming Free' Women's Retreat\n\n\"A space for gentle healing and
   powerful re-awakening\"\n\nExperience a restorative weekend - deeply nourished both
   by Nature and the feminine - learning how to connect with and nurture your ‘inner
@@ -45,6 +44,7 @@ Retreats Title: Retreats
   intimate & personal. No experience is necessary, just a sense of openness as you
   surrender to a weekend full of holistic therapies, beautiful nature & a chance to
   maybe try something new."
+Retreats Title: Retreats
 Retreats Images:
 - "/uploads/wellnessretreat1.jpg"
 - "/uploads/wellnessretreat7.jpg"
