@@ -54,6 +54,7 @@ Retreats Images:
 - "/uploads/wellnessretreat4.jpg"
 - "/uploads/wellnessretreats8.jpg"
 - "/uploads/wellnessretreat2.jpg"
+- "/uploads/Ad%20for%20Active%20Magazine%20Winter%20Issue%20FINAL.jpg"
 Yoga Title: E bikes
 YOGA Description: New for 2025 we now have two E bikes on site which are available
   for guests to hire. These can be added as an extra on booking or enquire on arrival.
