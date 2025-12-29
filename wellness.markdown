@@ -22,8 +22,17 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
+- 
 Retreats Title: Retreats
-Retreats Description: |-
+"'Becoming Free' Women's Retreat": "\"A space for gentle healing and powerful re-awakening\"\n\nExperience
+  a restorative weekend - deeply nourished both by Nature and the feminine - learning
+  how to connect with and nurture your ‘inner child’ and release self-limiting patterns.
+  Take this opportunity to slow down and pause, to embark on a journey that will be
+  soft as well as deep, soothing as well as energising, as you lean in to being seen
+  for who you truly are. \nDate: afternoon Friday 8th May to afternoon Sunday 10th
+  May\nYour host: Psychodynamic coach & Inner Child Healing Expert - Lavinia Brown
+  www.laviniabrown.com\nFor more information and to book your place: www.laviniabrown.com/may-retreat-2026\n\n"
+Be You Boutique Retreat: |-
   Be You Boutique Retreat
 
   Invest in You!
@@ -55,6 +64,7 @@ YOGA Images:
 - "/uploads/couple%20cycling%203.jpg"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
+Field name: 
 layout: wellness
 ---
 
