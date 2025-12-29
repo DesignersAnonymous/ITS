@@ -22,7 +22,6 @@ Spa Days Images:
 - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
 - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
 - "/uploads/test-dome.jpg"
-- 
 Retreats Title: Retreats
 "'Becoming Free' Women's Retreat": "\"A space for gentle healing and powerful re-awakening\"\n\nExperience
   a restorative weekend - deeply nourished both by Nature and the feminine - learning
