@@ -34,17 +34,7 @@ Retreats Images:
 - "/uploads/wellnessretreat6.jpg"
 - "/uploads/wellnessretreat2.jpg"
 - "/uploads/wellnessretreat3.jpg"
-Yoga Title: Section 3 Title
-YOGA Description: |-
-  Section 3 description goes here. This is the third section of your retreats page.
-  Customize this content to match your needs.
-YOGA Images:
-- "/uploads/wellnessretreat7.jpg"
-- "/uploads/wellnessretreats8.jpg"
 Field name: 
-Darren Title: Darren Title for testing
-Darren Description: Darren description for testing
-Darren Images: "/uploads/ChatGPT%20Image%20Oct%2031,%202025,%2009_40_18%20PM.png"
 layout: wellness
 ---
 
