@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<section id="retreats-page">
+  <div class="hero-image">
+    <div class="centred-content">
+      <h4>{{ page.title }}</h4>
+      <p>{{ page.["Hero Description"] }}</p>
+    </div>
+    <img src="/assets/images/wellness.jpg">
+  </div>
+</section>
+
+<section id="retreats-sections" class="ripped ripped-cream after-ripped-cream">
+  {% for section in page.sections %}
+  {% assign index = forloop.index | modulo: 2 %}
+  {% if index == 1 %}
+  <section class="plan facilities-wrapper flex two-col">
+  {% else %}
+  <section class="plan facilities-wrapper flex two-col white ripped">
+  {% endif %}
+    <div class="container flex">
+      <div class="left">
+        <h4>{{ section.title }}</h4>
+        <p>{{ section.description | markdownify }}</p>
+      </div>
+      <div class="right">
+        <div class="owl-carousel owl-theme">
+          {% for image in section.images %}
+          <div class="item frame">
+            <img class="owl-img" src="{{ image }}" alt="{{ section.title }}">
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+</section>
