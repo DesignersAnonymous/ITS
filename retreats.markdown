@@ -5,8 +5,8 @@ layout: default
 ---
 
 <section id="retreats">
-    <h1>{{ page.title }}</h1>
-    <p>Rutland is a beautiful and often overlooked county due to its size. It is the smallest county in England but with so much to offer its visitors.</p>
+<h1>{{ page.title }}</h1>
+<p>Rutland is a beautiful and often overlooked county due to its size. It is the smallest county in England but with so much to offer its visitors.</p>
 
     <div class="retreat-cards">
         {% for retreat in site.data.retreats %}
@@ -18,4 +18,5 @@ layout: default
         </article>
         {% endfor %}
     </div>
+
 </section>
