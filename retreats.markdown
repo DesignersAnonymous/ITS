@@ -14,10 +14,9 @@ Spa Days Images:
 - "/uploads/wellnessretreat1.jpg"
 - "/uploads/wellnessretreat2.jpg"
 - "/uploads/wellnessretreat3.jpg"
-Retreats Description: Section 2 description goes here. This is the second section of your retreats page.
-
+Retreats Description: |-
+  Section 2 description goes here. This is the second section of your retreats page.
   Add your content here with multiple paragraphs as needed.
-
   This section also includes an image carousel.
 Retreats Title: Section 2 Title
 Retreats Images:
@@ -25,13 +24,13 @@ Retreats Images:
 - "/uploads/wellnessretreat5.jpg"
 - "/uploads/wellnessretreat6.jpg"
 Yoga Title: Section 3 Title
-YOGA Description: Section 3 description goes here. This is the third section of your retreats page.
-
+YOGA Description: |-
+  Section 3 description goes here. This is the third section of your retreats page.
   Customize this content to match your needs.
 YOGA Images:
 - "/uploads/wellnessretreat7.jpg"
 - "/uploads/wellnessretreats8.jpg"
-Field name:
+Field name: 
 layout: wellness
 ---
 
