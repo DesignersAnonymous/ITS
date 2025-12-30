@@ -31,6 +31,9 @@ YOGA Images:
 - "/uploads/wellnessretreat7.jpg"
 - "/uploads/wellnessretreats8.jpg"
 Field name: 
+Darren Title: Darren Title for testing
+Darren Description: Darren description for testing
+Darren Images: "/uploads/ChatGPT%20Image%20Oct%2031,%202025,%2009_40_18%20PM.png"
 layout: wellness
 ---
 
