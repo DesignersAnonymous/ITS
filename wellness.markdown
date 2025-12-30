@@ -4,7 +4,7 @@ permalink: "/wellness/"
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
-Spa Days Description: |-
+Spa Days Description: |
   We are thrilled to announce the launch of our new spa days for 2025! Join us for a rejuvenating morning or afternoon session, perfect for couples or groups of up to 6 people. This exclusive experience offers unlimited access to our fantastic wellness facilities, including the log-fired barrel sauna, cold water shower, and cold plunge bath.
 
   You will also get to unwind in our luxurious log-fired hot tub and get to sample the comfort of a dome. Relax and enjoy the living area complete with a cozy log burner, Chesterfield sofas, hanging chair, and ensuite bathroom facilities. On warm summer days, you can take advantage of the outdoor sofas and soak up some sun.
