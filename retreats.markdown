@@ -12,7 +12,7 @@ Spa Days Description: |-
 
   For more information and to book your place: [www.laviniabrown.com/may-retreat-2026](http://www.laviniabrown.com/may-retreat-2026)
 Spa Days Title: "'Becoming Free' Women's Retreat"
-Retreat Images:
+Spa Days Images:
 - "/uploads/Retreat%20blurb.jpg"
 - "/uploads/artem-kovalev-fk3XUcfTAvk-unsplash.jpg"
 - 
