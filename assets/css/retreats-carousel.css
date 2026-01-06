@@ -1,0 +1,211 @@
+/* ============================================
+   RETREATS PAGE - CUSTOM CAROUSEL
+   Premium Wellness Aesthetic
+   ============================================ */
+
+/* Two Column Layout */
+#retreats-sections .plan.facilities-wrapper {
+  padding: 50px 20px;
+}
+
+#retreats-sections .plan .container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Left Column - Static Text Content */
+#retreats-sections .plan .container .left {
+  padding-right: 20px;
+}
+
+#retreats-sections .plan .container .left h4 {
+  font-family: 'Koulen', sans-serif;
+  font-size: 46px;
+  color: #222;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#retreats-sections .plan .container .left p {
+  font-family: 'Merriweather', serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Right Column - Carousel Container */
+#retreats-sections .plan .container .right {
+  position: relative;
+  width: 100%;
+}
+
+/* Custom Carousel */
+.custom-carousel {
+  position: relative;
+  width: 100%;
+  height: 450px;
+  background: transparent;
+  overflow: visible;
+}
+
+.carousel-frame {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.carousel-track {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.5s;
+}
+
+.carousel-slide.active {
+  opacity: 1;
+  visibility: visible;
+  position: relative;
+}
+
+.carousel-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+/* Navigation Arrows - Match Wellness Page Style */
+.carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  padding: 0;
+  padding-top: 40vh;
+  padding-bottom: 40vh;
+  cursor: pointer;
+  z-index: 10;
+  outline: none;
+  transition: opacity 0.3s ease;
+}
+
+.carousel-arrow:hover {
+  opacity: 0.7;
+}
+
+/* Hide the default SVG icons */
+.carousel-arrow svg {
+  display: none;
+}
+
+/* Custom Orange Arrow Icons - Match Wellness Page */
+.carousel-prev::after {
+  content: url("data:image/svg+xml,%3Csvg width='56' height='31' viewBox='0 0 56 31' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M-0.000110626 19.165L56 19.165L56 10.455L-0.000109865 10.455L-0.000110626 19.165Z' fill='%23DA5626'/%3E%3Cpath d='M30.8987 22.9938L9.45123 10.6111L5.0878 18.1688L26.5353 30.5515L30.8987 22.9938Z' fill='%23DA5626'/%3E%3Cpath d='M30.8987 7.55772L9.45123 19.9404L5.08781 12.3828L26.5353 4.03924e-05L30.8987 7.55772Z' fill='%23DA5626'/%3E%3C/svg%3E%0A");
+  display: block;
+}
+
+.carousel-next::after {
+  content: url("data:image/svg+xml,%3Csvg width='56' height='31' viewBox='0 0 56 31' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M56 11.3865L-0.00012207 11.3865L-0.00012207 20.0965L56 20.0965V11.3865Z' fill='%23DA5626'/%3E%3Cpath d='M25.1012 7.55772L46.5486 19.9404L50.9121 12.3828L29.4646 3.95243e-05L25.1012 7.55772Z' fill='%23DA5626'/%3E%3Cpath d='M25.1012 22.9938L46.5486 10.6111L50.9121 18.1688L29.4646 30.5515L25.1012 22.9938Z' fill='%23DA5626'/%3E%3C/svg%3E%0A");
+  display: block;
+}
+
+.carousel-prev {
+  left: 0;
+}
+
+.carousel-next {
+  right: 0;
+}
+
+/* Alternating Section Backgrounds - Match Wellness Page */
+/* Default cream background inherited from parent */
+
+/* White background for alternating sections */
+#retreats-sections .plan.facilities-wrapper.white {
+  background-color: #fffbf8;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  #retreats-sections .plan .container {
+    gap: 40px;
+  }
+
+  #retreats-sections .plan .container .left {
+    padding-right: 20px;
+  }
+
+  .custom-carousel {
+    height: 450px;
+  }
+}
+
+@media (max-width: 768px) {
+  #retreats-sections .plan .container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  #retreats-sections .plan .container .left {
+    padding-right: 0;
+    text-align: center;
+  }
+
+  #retreats-sections .plan .container .left h4 {
+    font-size: 2rem;
+  }
+
+  .custom-carousel {
+    height: 400px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .carousel-arrow {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+  }
+}
+
+@media (max-width: 480px) {
+  #retreats-sections .plan.facilities-wrapper {
+    padding: 50px 15px;
+  }
+
+  #retreats-sections .plan .container .left h4 {
+    font-size: 1.75rem;
+  }
+
+  #retreats-sections .plan .container .left p {
+    font-size: 1rem;
+  }
+
+  .custom-carousel {
+    height: 350px;
+    padding: 15px;
+  }
+}

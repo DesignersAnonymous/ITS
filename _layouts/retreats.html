@@ -16,7 +16,11 @@ layout: default
   {% for section in page.sections %}
   {% assign index = forloop.index | modulo: 2 %}
   {% if index == 1 %}
+    {% if forloop.first %}
   <section class="plan facilities-wrapper flex two-col">
+    {% else %}
+  <section class="plan facilities-wrapper flex two-col ripped-cream">
+    {% endif %}
   {% else %}
   <section class="plan facilities-wrapper flex two-col white ripped">
   {% endif %}
@@ -26,15 +30,37 @@ layout: default
         <p>{{ section.description | markdownify }}</p>
       </div>
       <div class="right">
-        <div class="owl-carousel owl-theme">
-          {% for image in section.images %}
-          <div class="item frame">
-            <img class="owl-img" src="{{ image }}" alt="{{ section.title }}">
+        <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
+          <div class="carousel-frame">
+            <div class="carousel-track">
+              {% for image in section.images %}
+              <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                <img src="{{ image }}" alt="{{ section.title }}">
+              </div>
+              {% endfor %}
+            </div>
           </div>
-          {% endfor %}
+          {% if section.images.size > 1 %}
+          <button class="carousel-arrow carousel-prev" aria-label="Previous">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+          </button>
+          <button class="carousel-arrow carousel-next" aria-label="Next">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+          </button>
+          {% endif %}
         </div>
       </div>
     </div>
   </section>
   {% endfor %}
 </section>
+
+<!-- Custom Retreats Carousel Styles -->
+<link rel="stylesheet" href="/assets/css/retreats-carousel.css">
+
+<!-- Custom Retreats Carousel Script -->
+<script src="/assets/js/retreats-carousel.js"></script>
