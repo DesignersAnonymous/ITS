@@ -28,6 +28,7 @@ Retreats Description: |-
   Be quick as ONLY 12 spaces are available to keep this boutique retreat intimate & personal. No experience is necessary, just a sense of openness as you surrender to a weekend full of holistic therapies, beautiful nature & a chance to maybe try something new.
 Retreats Title: Be You Boutique Retreat
 Retreats Images:
+- "/uploads/Retreat%20blurb.jpg"
 - "/uploads/wellnessretreats8.jpg"
 - "/uploads/wellnessretreat4.jpg"
 - "/uploads/wellnessretreat5.jpg"
