@@ -313,7 +313,7 @@ Shepherd's Hut Title: Shepherd's Hut
 Shepherd’s Hut Mini Description: Cold storage and reception.
 Map Shepherds Hut Images: "/uploads/IMG_9222.jpg"
 Shepherd's Hut Images:
-- "/uploads/IMG_9219.jpg"
+- "/uploads/Shepherds%20Hut.jpg"
 Shepherd's Hut Text: "Need to keep your food safe and chilled? The Shepherd's Hut
   has you covered, and more: \n\n* Freezer to store freezer blocks (to use in your
   cool boxes for picnics)\n* Communal fridge\n* Communal bookshelf\n* Games exchange"
