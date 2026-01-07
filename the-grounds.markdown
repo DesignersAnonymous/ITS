@@ -203,6 +203,7 @@ Fire Pit Title: Fire Pit
 Fire Pit Mini Description: Joshua
 Map Fire Pit Images: "/uploads/IMG_9212.jpg"
 Fire Pit Images:
+- "/uploads/Firepit%20sign.jpg"
 - "/uploads/In%20the%20Stix%20Man%20by%20fire.jpg"
 - "/uploads/In%20the%20stix%20girl%20guitar%20fire.jpg"
 - "/uploads/In%20the%20Stix%20marshmallow.jpg"
