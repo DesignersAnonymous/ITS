@@ -1,7 +1,6 @@
 ---
 title: Retreats
 permalink: "/retreats/"
-layout: retreats
 Hero Description: Welcome to our retreats page. Discover transformative retreat experiences
   in our unique outdoor setting.
 sections:
@@ -31,12 +30,12 @@ sections:
 
     Be quick as ONLY 12 spaces are available to keep this boutique retreat intimate & personal. No experience is necessary, just a sense of openness as you surrender to a weekend full of holistic therapies, beautiful nature & a chance to maybe try something new.
   images:
-  - "/uploads/Retreat%20blurb.jpg"
   - "/uploads/wellnessretreats8.jpg"
   - "/uploads/wellnessretreat4.jpg"
   - "/uploads/wellnessretreat5.jpg"
   - "/uploads/wellnessretreat6.jpg"
   - "/uploads/wellnessretreat2.jpg"
   - "/uploads/wellnessretreat3.jpg"
+layout: retreats
 ---
 
