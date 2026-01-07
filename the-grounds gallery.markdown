@@ -209,7 +209,7 @@ Fire Pit Images:
 - "/uploads/In%20the%20Stix%20marshmallow.jpg"
 - "/uploads/In%20the%20stix%20men%20firepit.jpg"
 - "/uploads/Firepit1280x1280.jpg"
-- 
+- "/uploads/Firepit3.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
   an impressive 8-meter span that invites everyone to gather. This spacious setup
   allows guests from all the domes to come together, fostering a sense of community
