@@ -307,6 +307,7 @@ Log Storage Mini Description: One locker per dome.
 Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
 Log Storage Images:
 - "/uploads/IMG_9204.jpg"
+- "/uploads/Logstore.jpg"
 Log Storage Text: 'Each dome has access to its own numbered private log storage, full
   to the brim with ready to use logs for the wood burner. '
 Shepherd's Hut Title: Shepherd's Hut
