@@ -93,6 +93,7 @@ Dome 2 Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201DSC5322-Edit.jpg"
 - "/uploads/_DSC9225-Edit.jpg"
+- "/uploads/Kettle.jpg"
 Dome 3 Title: Dome 3 - Hambleton
 Dome 3 Mini Description: The retro bus seat one
 Map Dome 3 Images: "/uploads/In%20the%20Stix%20Outdoors_DSC9070-Edit.jpg"
@@ -202,10 +203,12 @@ Fire Pit Title: Fire Pit
 Fire Pit Mini Description: Joshua
 Map Fire Pit Images: "/uploads/IMG_9212.jpg"
 Fire Pit Images:
-- "/uploads/In%20the%20Stix%20Man%20by%20fire.jpg"
-- "/uploads/In%20the%20stix%20girl%20guitar%20fire.jpg"
-- "/uploads/In%20the%20Stix%20marshmallow.jpg"
+- "/uploads/Firepit%20sign-ae8ebf.jpg"
+- "/uploads/Firepit%202.jpg"
+- "/uploads/Firepit%20Guitar%20%20copy.jpg"
 - "/uploads/In%20the%20stix%20men%20firepit.jpg"
+- "/uploads/Firepit1280x1280.jpg"
+- "/uploads/Firepit3.jpg"
 Fire Pit Text: "The communal fire pit is the heart and soul of our campsite, featuring
   an impressive 8-meter span that invites everyone to gather. This spacious setup
   allows guests from all the domes to come together, fostering a sense of community
@@ -307,13 +310,14 @@ Log Storage Mini Description: One locker per dome.
 Map Log Storage Images: "/uploads/IMG_9207%203.jpg"
 Log Storage Images:
 - "/uploads/IMG_9204.jpg"
+- "/uploads/Logstore.jpg"
 Log Storage Text: 'Each dome has access to its own numbered private log storage, full
   to the brim with ready to use logs for the wood burner. '
 Shepherd's Hut Title: Shepherd's Hut
 Shepherd’s Hut Mini Description: Cold storage and reception.
 Map Shepherds Hut Images: "/uploads/IMG_9222.jpg"
 Shepherd's Hut Images:
-- "/uploads/IMG_9219.jpg"
+- "/uploads/Shepherds%20Hut.jpg"
 Shepherd's Hut Text: "Need to keep your food safe and chilled? The Shepherd's Hut
   has you covered, and more: \n\n* Freezer to store freezer blocks (to use in your
   cool boxes for picnics)\n* Communal fridge\n* Communal bookshelf\n* Games exchange"
