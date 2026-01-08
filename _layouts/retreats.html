@@ -1,4 +1,5 @@
 ---
+title: Retreats
 layout: default
 ---
 
@@ -12,55 +13,57 @@ layout: default
   </div>
 </section>
 
+<!-- Custom Retreats Carousel Styles - Load early to prevent FOUC -->
+<link rel="stylesheet" href="/assets/css/retreats-carousel.css">
+
 <section id="retreats-sections" class="ripped ripped-cream after-ripped-cream">
   {% for section in page.sections %}
   {% assign index = forloop.index | modulo: 2 %}
   {% if index == 1 %}
-    {% if forloop.first %}
+  {% if forloop.first %}
   <section class="plan facilities-wrapper flex two-col">
     {% else %}
-  <section class="plan facilities-wrapper flex two-col ripped-cream">
-    {% endif %}
-  {% else %}
-  <section class="plan facilities-wrapper flex two-col white ripped">
-  {% endif %}
-    <div class="container flex">
-      <div class="left">
-        <h4>{{ section.title }}</h4>
-        <p>{{ section.description | markdownify }}</p>
-      </div>
-      <div class="right">
-        <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
-          <div class="carousel-frame">
-            <div class="carousel-track">
-              {% for image in section.images %}
-              <div class="carousel-slide {% if forloop.first %}active{% endif %}">
-                <img src="{{ image }}" alt="{{ section.title }}">
+    <section class="plan facilities-wrapper flex two-col ripped-cream">
+      {% endif %}
+      {% else %}
+      <section class="plan facilities-wrapper flex two-col white ripped">
+        {% endif %}
+        <div class="container flex">
+          <div class="left">
+            <h4>{{ section.title }}</h4>
+            <p>{{ section.description | markdownify }}</p>
+          </div>
+          <div class="right">
+            <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
+              <div class="carousel-frame">
+                <div class="carousel-track">
+                  {% for image in section.images %}
+                  <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                    <img src="{{ image }}" alt="{{ section.title }}">
+                  </div>
+                  {% endfor %}
+                </div>
               </div>
-              {% endfor %}
+              {% if section.images.size > 1 %}
+              <button class="carousel-arrow carousel-prev" aria-label="Previous">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                  stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+              </button>
+              <button class="carousel-arrow carousel-next" aria-label="Next">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                  stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+              </button>
+              {% endif %}
             </div>
           </div>
-          {% if section.images.size > 1 %}
-          <button class="carousel-arrow carousel-prev" aria-label="Previous">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="15 18 9 12 15 6"></polyline>
-            </svg>
-          </button>
-          <button class="carousel-arrow carousel-next" aria-label="Next">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="9 18 15 12 9 6"></polyline>
-            </svg>
-          </button>
-          {% endif %}
         </div>
-      </div>
-    </div>
-  </section>
-  {% endfor %}
-</section>
+      </section>
+      {% endfor %}
+    </section>
 
-<!-- Custom Retreats Carousel Styles -->
-<link rel="stylesheet" href="/assets/css/retreats-carousel.css">
-
-<!-- Custom Retreats Carousel Script -->
-<script src="/assets/js/retreats-carousel.js"></script>
+    <!-- Custom Retreats Carousel Script -->
+    <script src="/assets/js/retreats-carousel.js"></script>

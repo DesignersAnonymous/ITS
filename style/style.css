@@ -430,7 +430,8 @@ header.hero {
     transition: opacity 0.3s ease-in-out;
 }
 
-.carousel-slide {
+.hero .carousel-slide,
+.carousel-slide.hero-slide {
     font-family: 'Koulen', sans-serif;
     font-size: 45px;
     font-style: normal !important;

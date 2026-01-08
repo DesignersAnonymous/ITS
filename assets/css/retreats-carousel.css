@@ -40,6 +40,9 @@
 #retreats-sections .plan .container .right {
   position: relative;
   width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Custom Carousel */
@@ -95,6 +98,7 @@
   object-fit: contain;
   object-position: center;
   display: block;
+  margin: 0 auto;
 }
 
 /* Navigation Arrows - Match Wellness Page Style */
