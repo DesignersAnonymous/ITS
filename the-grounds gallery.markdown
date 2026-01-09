@@ -89,7 +89,7 @@ Dome 2 Images:
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5455-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%202_DSC5562-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%202_DSC5571-Edit.jpg"
-- "/uploads/In%20the%20Stix%20Dome%202_DSC5612-Edit.jpg"
+- "/uploads/Kettle-f43123.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201_DSC5472-Edit.jpg"
 - "/uploads/In%20the%20Stix%20Dome%201DSC5322-Edit.jpg"
 - "/uploads/_DSC9225-Edit.jpg"
