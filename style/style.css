@@ -291,6 +291,7 @@ header.hero {
 
 .navbar .container {
     position: relative;
+    width: 100%;
 }
 
 .navbar .container .logo{
