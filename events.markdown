@@ -33,14 +33,14 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   couple. If you wish, you can charge your guests per head to stay in the domes to
   re-coup the remaining part of the cost. We run 2 slots per week either Monday –
   Friday (4 nights) or Friday – Monday (3 nights) offering either a midweek wedding
-  or a weekend wedding. The midweek option gives you the fourth day free of charge.\n\nOption
-  One:\nThis is for a large wedding that requires the additional land hire of our
+  or a weekend wedding. The midweek option gives you the fourth day free of charge.\n\n**Option
+  One:**\nThis is for a large wedding that requires the additional land hire of our
   top\nfield for a marquee or extra camping.\nOur hire price includes the hire of
   the land for 5 days and all our 6\nglamping domes for 3 nights (Friday, Saturday
   and Sunday)\nLOW SEASON £4,590 MID SEASON A £5,190 HIGH SEASON £5,790\nOur land
   hire is from a Wednesday 09:00am through to Monday 13:00pm\n– to give your suppliers
   time to set up and clear down. (However, dome\ncheck out is at 10am on the Monday)
-  This will allow you to have a Friday\nor Saturday wedding.\n\nOption Two:\nThis
+  This will allow you to have a Friday\nor Saturday wedding.\n\n**Option Two:**\nThis
   is for a smaller wedding (maximum 50 people) This option does not\nrequire any land
   hire as the reception can be held in our event space.\nOur hire price includes the
   hire of the event space for 3 nights and all our\nglamping domes for 3 nights (Friday,
