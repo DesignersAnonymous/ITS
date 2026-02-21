@@ -27,11 +27,10 @@ layout: default
   </div>
 
 <div class="platform booking-spa">
-    <iframe
-      src="https://www.supersaas.com/schedule/IntheStix/Spa_Days?view=free"
-      width="100%"
-      height="800"
-    ></iframe>
+  <iframe src="https://www.supersaas.co.uk/schedule/IntheStix/Morning_Reset_Wild_Spa"
+width="100%"
+height="900"
+frameborder="0"></iframe>
   </div>
 
   <div class="platform booking-retreats">
