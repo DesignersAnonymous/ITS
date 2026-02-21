@@ -34,7 +34,6 @@ layout: default
     ></iframe>
   </div>
 
-
   <div class="platform booking-retreats">
     <iframe
       src="https://www.supersaas.com/schedule/IntheStix/retreats?view=free"
