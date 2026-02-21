@@ -26,8 +26,14 @@ layout: default
     <script src="https://secure.supercontrol.co.uk/components/embed.js"></script>
   </div>
 
- <script src="https://cdn.supersaas.net/widget.js"></script>
-<script class="supersaas-widget">var supersaas_776595 = new SuperSaaS("573042:IntheStix","776595:Morning_Reset_Wild_Spa",{})</script>
+<div class="platform booking-spa">
+    <iframe
+      src="https://www.supersaas.com/schedule/IntheStix/Spa_Days?view=free"
+      width="100%"
+      height="800"
+    ></iframe>
+  </div>
+
 
   <div class="platform booking-retreats">
     <iframe
