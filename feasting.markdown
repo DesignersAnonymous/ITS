@@ -104,7 +104,7 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
 Breakfast hampers:
 - Title: Small Hamper £60
   Description: |-
-    **SMALL VEGGIE HAMPER £50 **
+    **SMALL VEGGIE HAMPER £50**
 
     (ALL THE BELOW MINUS MEAT)
 
