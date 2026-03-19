@@ -123,7 +123,7 @@ Breakfast hampers:
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC9134-Edit.jpg"
 - Title: Large Hamper £95
   Description: |
-    **LARGE VEGGIE HAMPER £70 **
+    **LARGE VEGGIE HAMPER £70**
 
     (ALL THE BELOW MINUS THE MEAT)
 
