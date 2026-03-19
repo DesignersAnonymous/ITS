@@ -104,7 +104,6 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
 Breakfast hampers:
 - Title: Small Hamper £60
   Description: |-
-    SMALL HAMPER £60
     SMALL VEGGIE HAMPER £50 (ALL THE BELOW MINUS MEAT)
 
     * 6 FARMER LOU LINCOLNSHIRE SAUSAGES.
@@ -120,33 +119,27 @@ Breakfast hampers:
     * 250G TWO CHIMPS GROUND COFFEE.
     * 250G LOCALLY SOURCED BUTTER.
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC9134-Edit.jpg"
-- Title: Large Hamper £68
-  Description: |-
-    (Veggie option £55)
-    * 12 Farmer Lou Lincolnshire sausages
-    * 12 Farmer Lou dry cured back bacon
-    * 4 large Hambleton Bakery breakfast muffins
-    * 4 Hambleton Bakery croissants
-    * 1 large Hambleton bakery whole-meal loaf
-    * 1 jar Barlow's of Belvoir marmalade or jam
-    * 12 local free range eggs
-    * 500g Hambleton bakery granola
-    * 2 litres of semi skimmed milk
-    * 250g Two Chimps ground coffee
-    * 250g butter
-    * 2 litres of freshly squeezed orange juice
+- Title: Large Hamper £95
+  Description: "LARGE VEGGIE HAMPER £70 (ALL THE BELOW MINUS THE MEAT) \n* 12 FARMER
+    LOU LINCOLNSHIRE SAUSAGES.\n* 12 FARMER LOU BACK BACON.\n* 4 LARGE HAMBLETON BAKERY
+    BREAKFAST MUFFINS.\n* 4 HAMBLETON BAKERY CROISSANTS\n* LARGE HAMBLETON BAKERY
+    SEVEN CEREAL LOAF.\n* 1 JAR HAMBLETON BAKERY MARMALADE OR JAM.\n* 2 LOCALLY SOURCED
+    FREE RANGE EGGS.\n* 440G JUST SO GOOD GRANOLA.\n* 2 LITERS OF ORGANIC SEMI SKIMMED
+    MILK.\n* 2 LITERS OF FRESH ORANGE JUICE.\n* 250G TWO CHIMPS GROUND COFFEE.\n*
+    250G LOCALLY SOURCED BUTTER.\n"
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8850-Editcopy.jpg"
-- Title: Small Vegan Hamper £38
-  Description: |2-
-
-    * 4 large Hambleton Bakery Breakfast muffins
-    * 1 small Hambleton bakery seven cereal loaf
-    * 1 jar of Barlow’s of Belvoir marmalade or jam
-    * 500g Hambleton Bakery granola
-    * 2 litres of Oatly Organic Oat Milk
-    * 1 litre of fresh orange juice
-    * 250g Two Chimps ground coffee
-    * 350g Coconut dairy free natural yogurt alternative
+- Title: Large Vegan Hamper £50, Small Vegan Hamper £45
+  Description: |-
+    LARGE VEGAN HAMPER £65
+    SMALL VEGAN HAMPER £45
+    * 8 LARGE HAMBLETON BAKERY BREAKFAST MUFFINS.
+    * 1 LARGE HAMBLETON BAKERY WHOLE-MEAL LOAF.
+    * 1 JAR OF BARLOW’S OF BELVOIR MARMALADE OR JAM.
+    * 440G JUST SO GOOD GRANOLA.
+    * 2 LITERS OF FRESH ORANGE JUICE.
+    * 50G TWO CHIMPS GROUND COFFEE.
+    * 500G DAIRY FREE NATURAL YOGURT ALTERNATIVE
+    * 3 LITERS OF OATLY ORGANIC OAT MILK
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8858-Edit.jpg"
 - Title: Large Vegan Hamper £50
   Description: |2-
