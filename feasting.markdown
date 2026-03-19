@@ -102,21 +102,23 @@ Breakfast hampers Description: 'Indulge in our delightful breakfast hampers, sho
   perfect for a cozy getaway, while the **large hamper** accommodates 4 to 6 people,
   ideal for a weekend gathering with friends or family.'
 Breakfast hampers:
-- Title: Small Hamper £48
+- Title: Small Hamper £60
   Description: |-
-    (Veggie option £40)
-    * 6 Farmer Lou Lincolnshire sausages
-    * 6 Farmer Lou dry cured back bacon
-    * 2 large Hambleton Bakery breakfast muffins
-    * 2 Hambleton Bakery Croissants
-    * 1 Small Hambleton Bakery whole-meal loaf
-    * 1 Jar Barlow's of Belvoir marmalade or jam
-    * 6 local free range eggs
-    * 500g Hambleton Bakery granola
-    * 1 litre of semi skimmed milk
-    * 250g Two Chimps ground coffee
-    * 250g butter
-    * 1 litre of freshly squeezed orange juice
+    SMALL HAMPER £60
+    SMALL VEGGIE HAMPER £50 (ALL THE BELOW MINUS MEAT)
+
+    6 FARMER LOU LINCOLNSHIRE SAUSAGES.
+    6 FARMER LOU BACK BACON.
+    2 LARGE HAMBLETON BAKERY BREAKFAST MUFFINS.
+    2 HAMBLETON BAKERY CROISSANTS
+    1 SMALL HAMBLETON BAKERY SEVEN CEREAL LOAF.
+    1 JAR OF HAMBLETON BAKERY MARMALADE OR JAM.
+    6 LOCALLY SOURCED FREE RANGE EGGS.
+    280G JUST SO GOOD GRANOLA.
+    2 LITERS OF ORGANIC SEMI SKIMMED MILK.
+    1 LITER OF FRESH ORANGE JUICE.
+    250G TWO CHIMPS GROUND COFFEE.
+    250G LOCALLY SOURCED BUTTER.
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC9134-Edit.jpg"
 - Title: Large Hamper £68
   Description: |-
