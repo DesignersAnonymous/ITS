@@ -27,7 +27,7 @@ layout: default
   </div>
 
 <div class="platform booking-spa">
-  <iframe src="https://www.supersaas.co.uk/schedule/IntheStix/Morning_Reset_Wild_Spa"
+  <iframe src="https://www.supersaas.co.uk/schedule/IntheStix/Morning_Spa_or_Sauna_&_Pizza"
 width="100%"
 height="900"
 frameborder="0"></iframe>
