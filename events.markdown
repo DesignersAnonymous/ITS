@@ -81,8 +81,20 @@ Retreats Images:
 - "/uploads/group%20yoga.jpg"
 - "/assets/images/image-1.jpg"
 - "/assets/images/image-1.jpg"
-bbq title Section: 
-bbq title Section Text: "\n"
+bbq title Section: 'Sunset Spa & Pizza Night '
+bbq title Section Text: "This is your evening sorted…\nJoin us at In the Stix for
+  our Sunset Spa & Pizza Night — a relaxed, feel-good experience designed to help
+  you switch off and slow down.\nMove between the sauna, hot tub, cold plunge and
+  refreshing cold shower — all fed from our natural well water.\n\nThen settle in
+  with hand-stretched, wood-fired pizzas served throughout the evening\n\n\U0001F355
+  What’s on the menu? \U0001F355\n• Margherita (San Marzano tomato, mozzarella, fresh
+  basil)\n• Nduja & Hot Honey\n• Prosciutto, Rocket & Parmesan\n• Garden Veg (Vegan)\n\nWhat’s
+  included:\n• Sauna, hot tub & cold plunge experience\n• Cold plunge & shower using
+  fresh well water\n• 1 large wood-fired pizza per person\n• House salad and welcome
+  drink\n• A relaxed, social atmosphere\n\nWe have 2 ticket options\nSpa & Pizza\n£45
+  per person\n\nJust Pizza\n£20 per person\nBook now: https://inthestix.co.uk/book-now/\n\nLimited
+  spaces available\nMinimum of 6 guests required for the event to run\nTickets are
+  non-transferable\n"
 bbq title Section Images: 
 Description: 
 layout: events
