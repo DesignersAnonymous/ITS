@@ -83,9 +83,9 @@ layout: default
 {% assign section_style = page[style_field] | default: "cream" %}
 
 {% if section_style == "white" %}
-  {% assign section_class = "plan facilities-wrapper flex two-col white" %}
+  {% assign section_class = "plan facilities-wrapper dynamic-section flex two-col white" %}
 {% else %}
-  {% assign section_class = "plan facilities-wrapper flex two-col" %}
+  {% assign section_class = "plan facilities-wrapper dynamic-section flex two-col" %}
 {% endif %}
 
     <section class="{{ section_class }}">
