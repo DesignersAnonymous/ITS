@@ -1,7 +1,6 @@
 ---
 title: Retreats
 permalink: "/retreats/"
-published: true
 Hero Description: Welcome to our retreats page. Discover transformative retreat experiences
   in our unique outdoor setting.
 sections:
