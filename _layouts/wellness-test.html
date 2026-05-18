@@ -76,7 +76,7 @@ layout: default
 
   {% if field_name contains " Title" and field_name != "Spa Days Title" and field_name != "Retreats Title" and field_name != "Yoga Title" %}
 
-    {% assign section_name = field_name | replace: " Title", "" %}
+    {% assign section_name = field_name | remove: " Title" %}
     {% assign description_field = section_name | append: " Description" %}
     {% assign images_field = section_name | append: " Images" %}
   {% assign style_field = section_name | append: " Style" %}
