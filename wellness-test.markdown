@@ -50,7 +50,7 @@ YOGA Images:
 - "/uploads/couple%20cycling%203.jpg"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
-Spa Pizza Night Title: Sunset Spa & Pizza
+Spa Pizza Night Title: Sunset Spa & Pizza Night
 Spa Pizza Night Style: white
 Spa Pizza Night Description: 'Test description for the pizza night.
 
