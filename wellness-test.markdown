@@ -1,6 +1,6 @@
 ---
 title: Wellness
-permalink: "/wellness/"
+permalink: "/wellness-test/"
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
@@ -49,5 +49,5 @@ YOGA Images:
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
 Spa Pizza Night Title: Sunset Spa & Pizza Night
-layout: wellness
+layout: wellness-test
 ---
