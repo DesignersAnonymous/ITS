@@ -50,11 +50,28 @@ YOGA Images:
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
 Spa Pizza Night Title: Sunset Spa & Pizza Night
 Spa Pizza Night Style: white
-Spa Pizza Night Description: 'Test description for the pizza night.
-
-'
+Spa Pizza Night Description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001F525\U0001F305\n\nThis
+  is your evening sorted…\n\nJoin us at In the Stix for our Sunset Spa & Pizza Night
+  — a relaxed, feel-good experience designed to help you switch off and slow down.\n\nMove
+  between the sauna, hot tub, cold plunge and refreshing cold shower, all fed from
+  our natural well water.\n\nThen settle in with hand-stretched, wood-fired pizzas
+  served throughout the evening.\n\n\U0001F355 What’s on the menu? \U0001F355\n\n•
+  Margherita  \n(San Marzano tomato, mozzarella, fresh basil)\n\n• Nduja & Hot Honey\n\n•
+  Prosciutto, Rocket & Parmesan\n\n• Garden Veg (Vegan)\n\n### What’s included\n\n•
+  Sauna, hot tub & cold plunge experience  \n• Cold plunge & shower using fresh well
+  water  \n• 1 large wood-fired pizza per person  \n• House salad and welcome drink
+  \ \n• A relaxed, social atmosphere\n\n### Ticket options\n\n**Spa & Pizza**  \n£45
+  per person\n\n**Just Pizza**  \n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
+  spaces available.\n\nMinimum of 6 guests required for the event to run.\n\nTickets
+  are non-transferable."
 Spa Pizza Night Images:
-- "/uploads/test-dome.jpg"
+- "/uploads/sunsetspa-thumbnail-5.jpg"
+- "/uploads/sunsetspa-thumbnail-1.jpg"
+- "/uploads/sunsetspa-thumbnail.jpg"
+- "/uploads/sunsetspa-thumbnail-6.jpg"
+- "/uploads/sunsetspa-thumbnail-2.jpg"
+- "/uploads/sunsetspa-thumbnail-3.jpg"
+- "/uploads/sunsetspa-thumbnail-4.jpg"
 layout: wellness-test
 ---
 
