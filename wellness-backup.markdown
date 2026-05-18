@@ -1,5 +1,7 @@
 ---
 title: Wellness
+sitemap: false
+robots: noindex
 permalink: wellness-backup-darren-only
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
