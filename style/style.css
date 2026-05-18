@@ -2032,11 +2032,6 @@ footer { min-height: 0; }           /* or: min-height: unset; */
     }
 }
 
-.dynamic-section .left h4 {
-  margin-bottom: 32px;
-}
-
-.dynamic-section .left p {
-  margin-top: 0;
-  margin-bottom: 12px;
+.dynamic-section .left h4 + p {
+  margin-top: 48px;
 }
