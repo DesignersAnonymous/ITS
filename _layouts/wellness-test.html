@@ -70,5 +70,44 @@ layout: default
       </div>
     </div>
   </section>
- 
+ {% for item in page %}
+  {% assign field_name = item[0] %}
+  {% assign field_value = item[1] %}
+
+  {% if field_name contains " Title" and field_name != "Spa Days Title" and field_name != "Retreats Title" and field_name != "Yoga Title" %}
+
+    {% assign section_name = field_name | replace: " Title", "" %}
+    {% assign description_field = section_name | append: " Description" %}
+    {% assign images_field = section_name | append: " Images" %}
+
+    <section class="plan facilities-wrapper flex two-col white ripped">
+      <div class="container flex">
+
+        <div class="left">
+          <h4>{{ field_value }}</h4>
+
+          {% if page[description_field] %}
+            {{ page[description_field] | markdownify }}
+          {% endif %}
+        </div>
+
+        <div class="right">
+          {% if page[images_field] %}
+            <div class="owl-carousel owl-theme">
+
+              {% for image in page[images_field] %}
+                <div class="item frame">
+                  <img class="owl-img" src="{{ image }}" alt="{{ field_value }}">
+                </div>
+              {% endfor %}
+
+            </div>
+          {% endif %}
+        </div>
+
+      </div>
+    </section>
+
+  {% endif %}
+{% endfor %}
 </section>
