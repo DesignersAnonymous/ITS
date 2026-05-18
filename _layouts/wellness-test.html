@@ -70,31 +70,5 @@ layout: default
       </div>
     </div>
   </section>
-  {% for section in page.sections %}
-<section class="plan facilities-wrapper flex two-col white ripped">
-  <div class="container flex">
-    <div class="left">
-      {% if section.title %}
-        <h4>{{ section.title }}</h4>
-      {% endif %}
-
-      {% if section.description %}
-        {{ section.description | markdownify }}
-      {% endif %}
-    </div>
-
-    <div class="right">
-      {% if section.images %}
-      <div class="owl-carousel owl-theme">
-        {% for image in section.images %}
-        <div class="item frame">
-          <img class="owl-img" src="{{ image }}" alt="{{ section.title }}">
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</section>
-{% endfor %}
+ 
 </section>
