@@ -49,18 +49,13 @@ YOGA Images:
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
 - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
 Spa Pizza Night Title: Sunset Spa & Pizza Night
-sections:
-  - title: Spa Days
-    description: |
-      Test spa description
-    images:
-      - "/uploads/test-dome.jpg"
 
-  - title: Sunset Spa & Pizza Night
-    description: |
-      Pizza and spa evenings
-    images:
-      - "/uploads/test-dome.jpg"
+Spa Pizza Night Title: Sunset Spa & Pizza Night
+Spa Pizza Night Description: |
+  Test description for the pizza night.
+
+Spa Pizza Night Images:
+- "/uploads/test-dome.jpg"
 
 layout: wellness-test
 ---
