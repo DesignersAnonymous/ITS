@@ -58,6 +58,6 @@ Spa Pizza Night Description: |
 
 Spa Pizza Night Images:
 - "/uploads/test-dome.jpg"
-
 layout: wellness-test
 ---
+

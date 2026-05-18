@@ -4,6 +4,15 @@ permalink: "/book-test/"
 layout: booking
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-775129001"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-775129001');
+</script>
+
 <section id="book-now">
     <h1>{{ page.title }}</h1>
 
