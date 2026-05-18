@@ -56,8 +56,8 @@ Spa Pizza Night Description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001
   between the sauna, hot tub, cold plunge and refreshing cold shower, all fed from
   our natural well water.\n\nThen settle in with hand-stretched, wood-fired pizzas
   served throughout the evening.\n\n\U0001F355 What’s on the menu? \U0001F355\n\n•
-  Margherita  \n(San Marzano tomato, mozzarella, fresh basil)\n\n• Nduja & Hot Honey\n\n•
-  Prosciutto, Rocket & Parmesan\n\n• Garden Veg (Vegan)\n\n### What’s included\n\n•
+  Margherita  \n(San Marzano tomato, mozzarella, fresh basil)\n• Nduja & Hot Honey\n•
+  Prosciutto, Rocket & Parmesan\n• Garden Veg (Vegan)\n\n### What’s included\n\n•
   Sauna, hot tub & cold plunge experience  \n• Cold plunge & shower using fresh well
   water  \n• 1 large wood-fired pizza per person  \n• House salad and welcome drink
   \ \n• A relaxed, social atmosphere\n\n### Ticket options\n\n**Spa & Pizza**  \n£45
