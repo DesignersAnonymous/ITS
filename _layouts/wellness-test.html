@@ -79,8 +79,16 @@ layout: default
     {% assign section_name = field_name | replace: " Title", "" %}
     {% assign description_field = section_name | append: " Description" %}
     {% assign images_field = section_name | append: " Images" %}
+  {% assign style_field = section_name | append: " Style" %}
+{% assign section_style = page[style_field] | default: "cream" %}
 
-    <section class="plan facilities-wrapper flex two-col white ripped">
+{% if section_style == "white" %}
+  {% assign section_class = "plan facilities-wrapper flex two-col white ripped" %}
+{% else %}
+  {% assign section_class = "plan facilities-wrapper flex two-col ripped-cream" %}
+{% endif %}
+
+    <section class="{{ section_class }}">
       <div class="container flex">
 
         <div class="left">
