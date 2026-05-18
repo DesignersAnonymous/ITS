@@ -2030,12 +2030,13 @@ footer { min-height: 0; }           /* or: min-height: unset; */
         max-width: 600px;
         margin: 0 auto;
     }
+}
 
-.dynamic-section .left h4 + p {
-  margin-top: 32px;
+.dynamic-section .left h4 {
+  margin-bottom: 32px;
 }
 
 .dynamic-section .left p {
-  margin-bottom: 16px;
-}
+  margin-top: 0;
+  margin-bottom: 12px;
 }
