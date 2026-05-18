@@ -1,6 +1,6 @@
 ---
 title: Wellness
-permalink: "/wellness-section-test-darren-only/"
+permalink: "/wellness/"
 sitemap: false
 robots: noindex
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
