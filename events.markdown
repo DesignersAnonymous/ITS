@@ -4,56 +4,27 @@ permalink: "/events/"
 layout: events
 sections:
 - title: Sunset Spa & Pizza Night
-  description: |
-      This is your evening sorted…
-
-      Join us at In the Stix for our Sunset Spa & Pizza Night — a relaxed, feel-good experience designed to help you switch off and slow down.
-
-      Move between the sauna, hot tub, cold plunge and refreshing cold shower — all fed from our natural well water.
-
-      Then settle in with hand-stretched, wood-fired pizzas served throughout the evening.
-
-      🍕 What’s on the menu? 🍕
-
-      • Margherita (San Marzano tomato, mozzarella, fresh basil)
-      • Nduja & Hot Honey
-      • Prosciutto, Rocket & Parmesan
-      • Garden Veg (Vegan)
-
-      What’s included:
-
-      • Sauna, hot tub & cold plunge experience
-      • Cold plunge & shower using fresh well water
-      • 1 large wood-fired pizza per person
-      • House salad and welcome drink
-      • A relaxed, social atmosphere
-
-      We have 2 ticket options
-
-      Spa & Pizza
-      £45 per person
-
-      Just Pizza
-      £20 per person
-
-      Book now:
-      https://inthestix.co.uk/book-now/
-
-      Limited spaces available
-
-      Minimum of 6 guests required for the event to run
-
-      Tickets are non-transferable
-
+  description: "This is your evening sorted…\n\nJoin us at In the Stix for our Sunset
+    Spa & Pizza Night — a relaxed, feel-good experience designed to help you switch
+    off and slow down.\n\nMove between the sauna, hot tub, cold plunge and refreshing
+    cold shower — all fed from our natural well water.\n\nThen settle in with hand-stretched,
+    wood-fired pizzas served throughout the evening.\n\n\U0001F355 What’s on the menu?
+    \U0001F355\n\n• Margherita (San Marzano tomato, mozzarella, fresh basil)\n• Nduja
+    & Hot Honey\n• Prosciutto, Rocket & Parmesan\n• Garden Veg (Vegan)\n\nWhat’s included:\n\n•
+    Sauna, hot tub & cold plunge experience\n• Cold plunge & shower using fresh well
+    water\n• 1 large wood-fired pizza per person\n• House salad and welcome drink\n•
+    A relaxed, social atmosphere\n\nWe have 2 ticket options\n\nSpa & Pizza\n£45 per
+    person\n\nJust Pizza\n£20 per person\n\nBook now:\nhttps://inthestix.co.uk/book-now/\n\nLimited
+    spaces available\n\nMinimum of 6 guests required for the event to run\n\nTickets
+    are non-transferable\n"
   images:
-      - "/uploads/sunsetspa-thumbnail-5.jpg"
-      - "/uploads/sunsetspa-thumbnail-1.jpg"
-      - "/uploads/sunsetspa-thumbnail.jpg"
-      - "/uploads/sunsetspa-thumbnail-6.jpg"
-      - "/uploads/sunsetspa-thumbnail-2.jpg"
-      - "/uploads/sunsetspa-thumbnail-3.jpg"
-      - "/uploads/sunsetspa-thumbnail-4.jpg"
-  
+  - "/uploads/sunsetspa-thumbnail-5.jpg"
+  - "/uploads/sunsetspa-thumbnail-1.jpg"
+  - "/uploads/sunsetspa-thumbnail.jpg"
+  - "/uploads/sunsetspa-thumbnail-6.jpg"
+  - "/uploads/sunsetspa-thumbnail-2.jpg"
+  - "/uploads/sunsetspa-thumbnail-3.jpg"
+  - "/uploads/sunsetspa-thumbnail-4.jpg"
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
