@@ -1,6 +1,23 @@
 ---
 title: Events
-permalink: "/events/"
+permalink: "/events-test/"
+layout: events-test
+
+sections:
+- title: Test Event Section
+  description: |
+
+    This is a test event section.
+
+    ### Test subheading
+
+    * Test bullet one
+    * Test bullet two
+
+  images:
+    - "/uploads/test-dome.jpg"
+
+
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
@@ -97,6 +114,5 @@ bbq title Section Text: "This is your evening sorted…\nJoin us at In the Stix 
   non-transferable\n"
 bbq title Section Images: 
 Description: 
-layout: events
 ---
 
