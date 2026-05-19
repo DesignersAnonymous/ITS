@@ -2074,3 +2074,13 @@ footer { min-height: 0; }           /* or: min-height: unset; */
     margin-left: 0;
   }
 }
+@media (max-width: 768px) {
+  .dynamic-section h2,
+  .dynamic-section h3,
+  .dynamic-section h4 {
+    width: 100%;
+    display: block;
+    text-align: center !important;
+    align-self: center !important;
+  }
+}
