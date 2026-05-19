@@ -74,7 +74,9 @@ Spa Pizza Night Images:
 - "/uploads/sunsetspa-thumbnail-4.jpg"
 Test Title: Test Title 1
 Test Description: Test Description 1
-Test Images: "/uploads/sunsetspa-thumbnail-4.jpg"
+Test Images:
+- "/uploads/sunsetspa-thumbnail-4.jpg"
+- "/uploads/Kettle-f43123.jpg"
 layout: wellness-test
 ---
 
