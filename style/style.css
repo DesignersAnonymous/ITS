@@ -2063,20 +2063,16 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   }
 
 .dynamic-section .left p,
-.dynamic-section .left ul {
+.dynamic-section .left ul,
+.dynamic-section .left li {
     text-align: center;
 }
 
-.dynamic-section .left li {
-    text-align: left;
-}
-
 .dynamic-section .left ul {
-    display: inline-block;
-    text-align: left;
-    padding-left: 1.2em;
+    list-style-position: inside;
+    padding-left: 0;
     margin: 0 auto;
-  }
+    width: fit-content;
 }
 @media (max-width: 768px) {
   .dynamic-section h2,
