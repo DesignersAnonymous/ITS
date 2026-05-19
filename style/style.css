@@ -2038,7 +2038,7 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 @media (max-width: 768px) {
   .dynamic-section .left h3 {
     font-family: 'Merriweather', serif;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1.4;
     font-weight: 700;
     text-align: center;
@@ -2050,5 +2050,11 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   .dynamic-section .left ul,
   .dynamic-section .left li {
     text-align: center;
+  }
+
+  .dynamic-section .left ul {
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left: 0;
   }
 }
