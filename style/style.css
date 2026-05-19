@@ -2025,10 +2025,10 @@ footer { min-height: 0; }           /* or: min-height: unset; */
         justify-content: center;
     }
 
-    .left p {
+   .left p {
         text-align: center;
         max-width: 600px;
-        margin: 0 auto;
+        margin: 0 auto 20px auto;
     }
 }
 
