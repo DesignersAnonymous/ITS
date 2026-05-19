@@ -1,9 +1,9 @@
 ---
 title: Events
-permalink: "/events-test/"
-layout: events-test
+permalink: "/events/"
+layout: events
 sections:
-- title: Test Event Section
+- title: Event Section
   description: |2
 
     This is a test event section.
