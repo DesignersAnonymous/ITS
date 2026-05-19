@@ -2,10 +2,9 @@
 title: Events
 permalink: "/events-test/"
 layout: events-test
-
 sections:
 - title: Test Event Section
-  description: |
+  description: |2
 
     This is a test event section.
 
@@ -13,11 +12,8 @@ sections:
 
     * Test bullet one
     * Test bullet two
-
   images:
-    - "/uploads/test-dome.jpg"
-
-
+  - "/uploads/test-dome.jpg"
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
