@@ -1,6 +1,9 @@
 ---
-title: Events
+title: Events Test
 layout: default
+permalink: "/events-test/"
+sitemap: false
+robots: noindex
 ---
 
 <section id="feasting">
@@ -61,6 +64,39 @@ layout: default
             </div>
         </div>
     </section>
+    {% for section in page.sections %}
+<section class="plan facilities-wrapper dynamic-section flex two-col {% cycle '', 'white ripped after-ripped' %}">
+    <div class="container flex">
+
+        <div class="left">
+            {% if section.icon %}
+                <img src="{{ section.icon }}" alt="" class="section-icon">
+            {% endif %}
+
+            <h4>{{ section.title }}</h4>
+
+            {{ section.description | markdownify }}
+
+            {% if section.button_text and section.button_link %}
+                <a href="{{ section.button_link }}" class="btn">
+                    {{ section.button_text }}
+                </a>
+            {% endif %}
+        </div>
+
+        <div class="right">
+            <div class="owl-carousel owl-theme">
+                {% for image in section.images %}
+                    <div class="item">
+                        <img src="{{ image }}" alt="{{ section.title }}">
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+</section>
+{% endfor %}
     <!--section id="bbqs" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
