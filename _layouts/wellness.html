@@ -13,16 +13,18 @@ layout: default
   </div>
 </section>
 
+<link rel="stylesheet" href="/assets/css/retreats-carousel.css">
+
 <section id="feastings" class="ripped ripped-cream after-ripped-cream">
+
   <section id="spa-days" class="plan facilities-wrapper flex two-col">
     <div class="container flex">
       <div class="left">
         <h4>{{ page.["Spa Days Title"] }}</h4>
         <p>{{ page.["Spa Days Description"] | markdownify }}</p>
-        <!--<a href="/book-now/#spa" class="btn">Book Now</a>-->
       </div>
+
       <div class="right">
-        <!-- Spa Days -->
         <div class="owl-carousel owl-theme">
           {% for image in page.["Spa Days Images"] %}
           <div class="item frame">
@@ -33,13 +35,15 @@ layout: default
       </div>
     </div>
   </section>
+
   <section id="wellness-retreats" class="plan facilities-wrapper flex two-col white ripped">
     <div class="container flex">
+
       <div class="left">
         <h4>{{ page.["Retreats Title"] }}</h4>
         <p>{{ page.["Retreats Description"] | markdownify }}</p>
-
       </div>
+
       <div class="right">
         <div class="owl-carousel owl-theme">
           {% for image in page.["Retreats Images"] %}
@@ -49,17 +53,19 @@ layout: default
           {% endfor %}
         </div>
       </div>
+
     </div>
   </section>
+
   <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
     <div class="container flex">
+
       <div class="left">
         <h4>{{ page.["Yoga Title"] }}</h4>
         <p>{{ page.["YOGA Description"] | markdownify }}</p>
-        <!--<a href="/book-now/#spa" class="btn">Book Now</a>-->
       </div>
+
       <div class="right">
-        <!-- Yoga -->
         <div class="owl-carousel owl-theme">
           {% for image in page.["YOGA Images"] %}
           <div class="item frame">
@@ -68,6 +74,55 @@ layout: default
           {% endfor %}
         </div>
       </div>
+
     </div>
   </section>
+
+  {% for section in page.sections %}
+
+  <section class="plan facilities-wrapper flex two-col ripped ripped-cream">
+    <div class="container flex">
+
+      <div class="left">
+        <h4>{{ section.title }}</h4>
+        <p>{{ section.description | markdownify }}</p>
+      </div>
+
+      <div class="right">
+
+        <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
+
+          <div class="carousel-frame">
+            <div class="carousel-track">
+
+              {% for image in section.images %}
+              <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                <img src="{{ image }}" alt="{{ section.title }}">
+              </div>
+              {% endfor %}
+
+            </div>
+          </div>
+
+          {% if section.images.size > 1 %}
+          <button class="carousel-arrow carousel-prev" aria-label="Previous">
+            ‹
+          </button>
+
+          <button class="carousel-arrow carousel-next" aria-label="Next">
+            ›
+          </button>
+          {% endif %}
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  {% endfor %}
+
 </section>
+
+<script src="/assets/js/retreats-carousel.js"></script>
