@@ -2094,4 +2094,8 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   .dynamic-section .left p {
     margin: 0 auto 20px auto;
   }
+	
+	#weddings .left a {
+    display: block;
+    text-align: center;
 }
