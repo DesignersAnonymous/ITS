@@ -4,6 +4,7 @@ permalink: "/events-oldbackup/"
 sitemap: false
 robots: noindex
 ---
+
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
