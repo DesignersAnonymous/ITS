@@ -2083,4 +2083,8 @@ footer { min-height: 0; }           /* or: min-height: unset; */
     text-align: center !important;
     align-self: center !important;
   }
+
+  .dynamic-section .left p {
+    margin: 0 auto 20px auto;
+  }
 }
