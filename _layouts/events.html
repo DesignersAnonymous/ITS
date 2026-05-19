@@ -1,9 +1,8 @@
 ---
-title: Events Test
-permalink: "/events-test/"
+title: Events
+permalink: "/events/"
 layout: default
-sitemap: false
-robots: noindex
+
 ---
 
 <section id="feasting">
@@ -15,7 +14,7 @@ robots: noindex
         <img src="/assets/images/events.jpg"> 
     </div>
 </section>
-
+<link rel="stylesheet" href="/assets/css/retreats-carousel.css">
 <section id="feastings">
     <section id="parties" class="plan facilities-wrapper flex two-col ripped ripped-cream">
         <div class="container flex">
@@ -66,39 +65,6 @@ robots: noindex
             </div>
         </div>
     </section>
-    {% for section in page.sections %}
-<section class="plan facilities-wrapper dynamic-section flex two-col {% cycle 'white ripped after-ripped', '' %}">
-    <div class="container flex">
-
-        <div class="left">
-            {% if section.icon %}
-                <img src="{{ section.icon }}" alt="" class="section-icon">
-            {% endif %}
-
-            <h4>{{ section.title }}</h4>
-
-            {{ section.description | markdownify }}
-
-            {% if section.button_text and section.button_link %}
-                <a href="{{ section.button_link }}" class="btn">
-                    {{ section.button_text }}
-                </a>
-            {% endif %}
-        </div>
-
-        <div class="right">
-            <div class="owl-carousel owl-theme">
-                {% for image in section.images %}
-                    <div class="item">
-                        <img src="{{ image }}" alt="{{ section.title }}">
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-
-    </div>
-</section>
-{% endfor %}
     <!--section id="bbqs" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
@@ -114,4 +80,50 @@ robots: noindex
             </div>
         </div>
     </section-->
+    {% for section in page.sections %}
+
+<section class="plan facilities-wrapper flex two-col ripped ripped-cream">
+    <div class="container flex">
+
+        <div class="left">
+            <h4>{{ section.title }}</h4>
+            <p>{{ section.description | markdownify }}</p>
+        </div>
+
+        <div class="right">
+
+            <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
+
+                <div class="carousel-frame">
+                    <div class="carousel-track">
+
+                        {% for image in section.images %}
+                        <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                            <img src="{{ image }}" alt="{{ section.title }}">
+                        </div>
+                        {% endfor %}
+
+                    </div>
+                </div>
+
+                {% if section.images.size > 1 %}
+                <button class="carousel-arrow carousel-prev" aria-label="Previous">
+                    ‹
+                </button>
+
+                <button class="carousel-arrow carousel-next" aria-label="Next">
+                    ›
+                </button>
+                {% endif %}
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+{% endfor %}
+
+<script src="/assets/js/retreats-carousel.js"></script>
 </section>
