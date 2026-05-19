@@ -72,6 +72,7 @@ Spa Pizza Night Images:
 - "/uploads/sunsetspa-thumbnail-2.jpg"
 - "/uploads/sunsetspa-thumbnail-3.jpg"
 - "/uploads/sunsetspa-thumbnail-4.jpg"
+Test Title: Test Title
 layout: wellness-test
 ---
 
