@@ -3,17 +3,57 @@ title: Events
 permalink: "/events/"
 layout: events
 sections:
-- title: Event Section
-  description: |2
+- title: Sunset Spa & Pizza Night
+  description: |
+      This is your evening sorted…
 
-    This is a test event section.
+      Join us at In the Stix for our Sunset Spa & Pizza Night — a relaxed, feel-good experience designed to help you switch off and slow down.
 
-    ### Test subheading
+      Move between the sauna, hot tub, cold plunge and refreshing cold shower — all fed from our natural well water.
 
-    * Test bullet one
-    * Test bullet two
+      Then settle in with hand-stretched, wood-fired pizzas served throughout the evening.
+
+      🍕 What’s on the menu? 🍕
+
+      • Margherita (San Marzano tomato, mozzarella, fresh basil)
+      • Nduja & Hot Honey
+      • Prosciutto, Rocket & Parmesan
+      • Garden Veg (Vegan)
+
+      What’s included:
+
+      • Sauna, hot tub & cold plunge experience
+      • Cold plunge & shower using fresh well water
+      • 1 large wood-fired pizza per person
+      • House salad and welcome drink
+      • A relaxed, social atmosphere
+
+      We have 2 ticket options
+
+      Spa & Pizza
+      £45 per person
+
+      Just Pizza
+      £20 per person
+
+      Book now:
+      https://inthestix.co.uk/book-now/
+
+      Limited spaces available
+
+      Minimum of 6 guests required for the event to run
+
+      Tickets are non-transferable
+
   images:
-  - "/uploads/test-dome.jpg"
+      - "/uploads/sunsetspa-thumbnail-5.jpg"
+      - "/uploads/sunsetspa-thumbnail-1.jpg"
+      - "/uploads/sunsetspa-thumbnail.jpg"
+      - "/uploads/sunsetspa-thumbnail-6.jpg"
+      - "/uploads/sunsetspa-thumbnail-2.jpg"
+      - "/uploads/sunsetspa-thumbnail-3.jpg"
+      - "/uploads/sunsetspa-thumbnail-4.jpg"
+  
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
