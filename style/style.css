@@ -2087,16 +2087,10 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 
   .facilities-wrapper .left p {
     margin: 0 auto 20px auto;
-  }
-
-}
-
-  .dynamic-section .left p {
-    margin: 0 auto 20px auto;
-  }
 	
 	#weddings .left a {
     display: block;
+	width: 100%;
     text-align: center;
 }
 
@@ -2105,3 +2099,11 @@ footer { min-height: 0; }           /* or: min-height: unset; */
     margin-left: auto;
     margin-right: auto;
 }
+
+}
+
+  .dynamic-section .left p {
+    margin: 0 auto 20px auto;
+  }
+	
+
