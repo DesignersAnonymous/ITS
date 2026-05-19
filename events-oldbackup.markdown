@@ -96,7 +96,14 @@ Spa Pizza Night Description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001
   person\n\n**Just Pizza**\\\n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
   spaces available.\nMinimum of 6 guests required for the event to run.\nTickets are
   non-transferable."
-Spa Pizza Night Images: 
+Spa Pizza Night Images:
+- "/uploads/sunsetspa-thumbnail-1.jpg"
+- "/uploads/sunsetspa-thumbnail.jpg"
+- "/uploads/sunsetspa-thumbnail-6.jpg"
+- "/uploads/sunsetspa-thumbnail-5.jpg"
+- "/uploads/sunsetspa-thumbnail-2.jpg"
+- "/uploads/sunsetspa-thumbnail-3.jpg"
+- "/uploads/sunsetspa-thumbnail-4.jpg"
 layout: events
 ---
 
