@@ -2,7 +2,7 @@
 title: Events
 permalink: "/events/"
 sections:
-- title: Sunset Spa & Pizza Night - test
+- title: Sunset Spa & Pizza Night
   description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001F525\U0001F305\n\nThis
     is your evening sorted…\n\nJoin us at In the Stix for our Sunset Spa & Pizza Night
     — a relaxed, feel-good experience designed to help you switch off and slow down.
@@ -16,7 +16,7 @@ sections:
     A relaxed, social atmosphere\n\nWe have 2 ticket options\n\n**Spa & Pizza**\n£45
     per person\n\n**Just Pizza**\n£20 per person\n\nBook now:\nhttps://inthestix.co.uk/book-now/\n\nLimited
     spaces available.\nMinimum of 6 guests required for the event to run.\nTickets
-    are non-transferable.\nTest."
+    are non-transferable."
   images:
   - "/uploads/sunsetspa-thumbnail-5.jpg"
   - "/uploads/sunsetspa-thumbnail-1.jpg"
