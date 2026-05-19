@@ -2062,11 +2062,14 @@ footer { min-height: 0; }           /* or: min-height: unset; */
     margin-bottom: 12px;
   }
 
-  .dynamic-section .left p,
-  .dynamic-section .left ul,
-  .dynamic-section .left li {
+.dynamic-section .left p,
+.dynamic-section .left ul {
     text-align: center;
-  }
+}
+
+.dynamic-section .left li {
+    text-align: left;
+}
 
 .dynamic-section .left ul {
     display: inline-block;
