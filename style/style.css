@@ -2035,3 +2035,20 @@ footer { min-height: 0; }           /* or: min-height: unset; */
 .dynamic-section .left h4 + p {
   margin-top: 48px;
 }
+@media (max-width: 768px) {
+  .dynamic-section .left h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 1.4;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 12px;
+  }
+
+  .dynamic-section .left p,
+  .dynamic-section .left ul,
+  .dynamic-section .left li {
+    text-align: center;
+  }
+}
