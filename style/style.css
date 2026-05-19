@@ -2088,16 +2088,8 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   .facilities-wrapper .left p {
     margin: 0 auto 20px auto;
 	
-#weddings .left a {
-    display: block;
+#weddings .brochure-link {
     width: 100%;
-    text-align: center !important;
-}
-
-#weddings .left a p {
-    display: block;
-    width: 100%;
-    max-width: none;
     text-align: center !important;
     margin: 0 auto 20px auto;
 }
