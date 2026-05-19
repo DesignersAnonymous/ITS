@@ -24,11 +24,9 @@ events:
       title:
         type: string
         label: Section Title
-
       description:
         type: markdown
         label: Description
-
       images:
         type: list
         label: Images
