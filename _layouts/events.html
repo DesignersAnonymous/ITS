@@ -81,7 +81,7 @@ layout: default
     </section-->
     {% for section in page.sections %}
 
-<section class="plan facilities-wrapper flex two-col ripped ripped-cream">
+<section class="plan facilities-wrapper flex two-col {% if section.style == 'white' %}white{% endif %}">
     <div class="container flex">
 
         <div class="left">
