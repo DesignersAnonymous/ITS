@@ -81,8 +81,9 @@ layout: default
     </section-->
     {% for section in page.sections %}
 
-{% assign section_index = forloop.index | modulo: 2 %}
-<section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">    <div class="container flex">
+    {% assign section_index = forloop.index | modulo: 2 %}
+    <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">    
+        <div class="container flex">
 
         <div class="left">
             <h4>{{ section.title }}</h4>
