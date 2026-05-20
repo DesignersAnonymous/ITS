@@ -16,6 +16,51 @@ layout: default
 <link rel="stylesheet" href="/assets/css/retreats-carousel.css">
 
 <section id="feastings" class="ripped ripped-cream after-ripped-cream">
+    {% for section in page.sections %}
+
+  {% assign section_index = forloop.index | modulo: 2 %}
+  <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">
+    <div class="container flex">
+
+      <div class="left">
+        <h4>{{ section.title }}</h4>
+        <p>{{ section.description | markdownify }}</p>
+      </div>
+
+      <div class="right">
+
+        <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
+
+          <div class="carousel-frame">
+            <div class="carousel-track">
+
+              {% for image in section.images %}
+              <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                <img src="{{ image }}" alt="{{ section.title }}">
+              </div>
+              {% endfor %}
+
+            </div>
+          </div>
+
+          {% if section.images.size > 1 %}
+          <button class="carousel-arrow carousel-prev" aria-label="Previous">
+            
+          </button>
+
+          <button class="carousel-arrow carousel-next" aria-label="Next">
+            
+          </button>
+          {% endif %}
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  {% endfor %}
 
   <section id="spa-days" class="plan facilities-wrapper flex two-col">
     <div class="container flex">
@@ -78,51 +123,7 @@ layout: default
     </div>
   </section>
 
-  {% for section in page.sections %}
 
-  {% assign section_index = forloop.index | modulo: 2 %}
-  <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">
-    <div class="container flex">
-
-      <div class="left">
-        <h4>{{ section.title }}</h4>
-        <p>{{ section.description | markdownify }}</p>
-      </div>
-
-      <div class="right">
-
-        <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
-
-          <div class="carousel-frame">
-            <div class="carousel-track">
-
-              {% for image in section.images %}
-              <div class="carousel-slide {% if forloop.first %}active{% endif %}">
-                <img src="{{ image }}" alt="{{ section.title }}">
-              </div>
-              {% endfor %}
-
-            </div>
-          </div>
-
-          {% if section.images.size > 1 %}
-          <button class="carousel-arrow carousel-prev" aria-label="Previous">
-            
-          </button>
-
-          <button class="carousel-arrow carousel-next" aria-label="Next">
-            
-          </button>
-          {% endif %}
-
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-
-  {% endfor %}
 
 </section>
 
