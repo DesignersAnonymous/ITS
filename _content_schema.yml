@@ -10,6 +10,14 @@ wellness:
       description:
         type: markdown
         label: Description
+      style:
+        type: select
+        label: Background Colour
+        options:
+          - label: Cream
+            value: cream
+          - label: White
+            value: white
       images:
         type: list
         label: Images
@@ -27,6 +35,14 @@ events:
       description:
         type: markdown
         label: Description
+      style:
+        type: select
+        label: Background Colour
+        options:
+          - label: Cream
+            value: cream
+          - label: White
+            value: white
       images:
         type: list
         label: Images
