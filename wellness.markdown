@@ -2,17 +2,14 @@
 title: Wellness
 permalink: "/wellness/"
 layout: wellness
-
 sections:
 - title: Test Wellness Section
   description: |
     This is a test wellness section.
 
     Add your future section content here.
-
   images:
   - "/uploads/test-dome.jpg"
-
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
