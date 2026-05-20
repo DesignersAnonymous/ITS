@@ -11,7 +11,7 @@ wellness:
         type: markdown
         label: Description
       style:
-        type: select
+        type: string
         label: Background Colour
         options:
           - label: Cream
@@ -35,8 +35,8 @@ events:
       description:
         type: markdown
         label: Description
-      style:
-        type: select
+       style:
+        type: string
         label: Background Colour
         options:
           - label: Cream
