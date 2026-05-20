@@ -80,7 +80,8 @@ layout: default
 
   {% for section in page.sections %}
 
-  <section class="plan facilities-wrapper flex two-col {% if section.style == 'white' %}white{% endif %}">
+  {% assign section_index = forloop.index | modulo: 2 %}
+  <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">
     <div class="container flex">
 
       <div class="left">
