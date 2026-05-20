@@ -2,21 +2,8 @@
 title: Wellness
 permalink: "/wellness/"
 sections:
-- title: Sunset Spa & Pizza Night
-  description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001F525\U0001F305\n\nThis
-    is your evening sorted…\n\nJoin us at In the Stix for our Sunset Spa & Pizza Night
-    — a relaxed, feel-good experience designed to help you switch off and slow down.
-    Move between the sauna, hot tub, cold plunge and refreshing cold shower — all
-    fed from our natural well water. Then settle in with hand-stretched, wood-fired
-    pizzas served throughout the evening.\n\n### \U0001F355 What’s on the menu? \U0001F355\n\n-
-    Margherita (San Marzano tomato, mozzarella, fresh basil)\n- Nduja & Hot Honey\n-
-    Prosciutto, Rocket & Parmesan\n- Garden Veg (Vegan)\n\n### What’s included:\n\n-
-    Sauna, hot tub & cold plunge experience\n- Cold plunge & shower using fresh well
-    water\n- 1 large wood-fired pizza per person\n- House salad and welcome drink\n-
-    A relaxed, social atmosphere\n\nWe have 2 ticket options\n\n**Spa & Pizza**\n£45
-    per person\n\n**Just Pizza**\n£20 per person\n\nBook now:\nhttps://inthestix.co.uk/book-now/\n\nLimited
-    spaces available.\nMinimum of 6 guests required for the event to run.\nTickets
-    are non-transferable."
+- title: title test
+  description: description test
   images:
   - "/uploads/sunsetspa-thumbnail.jpg"
   - "/uploads/sunsetspa-thumbnail-1.jpg"
@@ -25,6 +12,9 @@ sections:
   - "/uploads/sunsetspa-thumbnail-4.jpg"
   - "/uploads/sunsetspa-thumbnail-6.jpg"
   - "/uploads/sunsetspa-thumbnail-5.jpg"
+  image:
+  - "/uploads/sunsetspa-thumbnail-1.jpg"
+  - "/uploads/sunsetspa-thumbnail-6.jpg"
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
