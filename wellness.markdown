@@ -2,7 +2,7 @@
 title: Wellness
 permalink: "/wellness/"
 sections:
-- title: title test
+- title: Sunset Spa & Pizza Night
   description: "Sauna. Cold plunge. Hot tub. Pizza. Sunset. \U0001F525\U0001F305\n\nThis
     is your evening sorted…\n\nJoin us at In the Stix for our Sunset Spa & Pizza Night
     — a relaxed, feel-good experience designed to help you switch off and slow down.
@@ -25,16 +25,6 @@ sections:
   - "/uploads/sunsetspa-thumbnail-4.jpg"
   - "/uploads/sunsetspa-thumbnail-6.jpg"
   - "/uploads/sunsetspa-thumbnail-5.jpg"
-- title: title test
-  description: description test
-  images:
-  - "/uploads/sunsetspa-thumbnail.jpg"
-  - "/uploads/sunsetspa-thumbnail-2.jpg"
-  - 
-  - 
-  - 
-  - 
-  - 
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
