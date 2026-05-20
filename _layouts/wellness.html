@@ -81,26 +81,6 @@ layout: default
     </div>
   </section>
 
-  <section id="wellness-retreats" class="plan facilities-wrapper flex two-col white ripped">
-    <div class="container flex">
-
-      <div class="left">
-        <h4>{{ page.["Retreats Title"] }}</h4>
-        <p>{{ page.["Retreats Description"] | markdownify }}</p>
-      </div>
-
-      <div class="right">
-        <div class="owl-carousel owl-theme">
-          {% for image in page.["Retreats Images"] %}
-          <div class="item frame">
-            <img class="owl-img" src="{{ image }}" alt="Retreats">
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
-    </div>
-  </section>
 
   <section id="yoga" class="plan facilities-wrapper flex two-col ripped-cream">
     <div class="container flex">
