@@ -37,22 +37,11 @@ gtag('config', 'AW-775129001');
 
 <div class="platform booking-spa">
   <iframe
-    <div class="platform booking-spa">
-
-<script src="https://cdn.supersaas.net/widget.js"></script>
-
-<script class="supersaas-widget">
-var supersaas_776595 = new SuperSaaS(
-"573042:IntheStix",
-"776595:Morning_Spa_&Sunset_Spa_&_Pizza",
-{}
-);
-</script>
-
-<button onclick="supersaas_776595.show()" class="btn">
-Book Your Spa Day
-</button>
-
+    src="https://www.supersaas.com/schedule/IntheStix/Morning_Spa_%26Sunset_Spa_%26_Pizza"
+    width="100%"
+    height="1200"
+    frameborder="0">
+  </iframe>
 </div>
 
   <div class="platform booking-retreats">
