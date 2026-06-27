@@ -59,7 +59,7 @@ Book Your Spa Day
     <iframe
       src="https://www.supersaas.com/schedule/IntheStix/retreats?view=free"
       width="100%"
-      height="1200"
+      height="800"
     ></iframe>
   </div>
 </section>
