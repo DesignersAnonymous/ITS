@@ -36,11 +36,13 @@ gtag('config', 'AW-775129001');
   </div>
 
 <div class="platform booking-spa">
-  <iframe src="https://www.supersaas.co.uk/schedule/IntheStix/Morning_Spa_or_Sauna_&_Pizza"
-width="100%"
-height="900"
-frameborder="0"></iframe>
-  </div>
+  <iframe
+    src="https://www.supersaas.co.uk/schedule/IntheStix/Morning_Spa_&Sunset_Spa_&_Pizza"
+    width="100%"
+    height="900"
+    frameborder="0">
+  </iframe>
+</div>
 
   <div class="platform booking-retreats">
     <iframe
