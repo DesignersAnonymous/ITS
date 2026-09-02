@@ -19,7 +19,7 @@ layout: default
     {% for section in page.sections %}
 
   {% assign section_index = forloop.index | modulo: 2 %}
-  <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %} white{% endif %}">
+  <section class="plan facilities-wrapper flex two-col {% if section_index == 0 %} white{% endif %}">
     <div class="container flex">
 
       <div class="left">
@@ -62,7 +62,7 @@ layout: default
 
   {% endfor %}
 
-  <section id="spa-days" class="plan facilities-wrapper flex two-col">
+  <section id="spa-days" class="plan facilities-wrapper flex two-col white">
     <div class="container flex">
       <div class="left">
         <h4>{{ page.["Spa Days Title"] }}</h4>
@@ -82,7 +82,7 @@ layout: default
   </section>
 
 
-  <section id="yoga" class="plan facilities-wrapper flex two-col white">
+  <section id="yoga" class="plan facilities-wrapper flex two-col">
     <div class="container flex">
 
       <div class="left">
