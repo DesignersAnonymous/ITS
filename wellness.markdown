@@ -42,6 +42,21 @@ sections:
   - "/uploads/In%20the%20Stix%20The%20spaScreenshot%202025-03-10%20at%2017.53.33.jpeg"
   - "/uploads/Screenshot%202025-03-10%20at%2017.43.34.jpeg"
   - "/uploads/test-dome.jpg"
+- title: E bikes
+  description: New for 2025 we now have two E bikes on site which are available for
+    guests to hire. These can be added as an extra on booking or enquire on arrival.
+    We are just a short ride from Rutland Water, or you have the whole of Exton park
+    to explore, straight from your doorstep.
+  images:
+  - "/uploads/cycling%20couple1%20.jpg"
+  - "/uploads/couple%20cycling%202.jpg"
+  - "/uploads/couple%20cycling%203.jpg"
+  - "/uploads/Screenshot%202025-06-24%20at%2014.14.57.png"
+  - "/uploads/Screenshot%202025-06-24%20at%2014.14.46.png"
+  - 
+  - 
+  - 
+  - 
 Hero Description: Welcome to wellness In the Stix style. Whether you are looking for
   a spa day, a spa weekend, or a retreat. In the Stix is now able to offer you all
   of these experiences in our unique outdoor setting.
