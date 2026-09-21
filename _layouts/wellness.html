@@ -19,7 +19,7 @@ layout: default
   {% for section in page.sections %}
 
   {% assign section_index = forloop.index | modulo: 2 %}
-  <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %}ripped-cream after-ripped-cream{% else %}white ripped after-ripped{% endif %}">
+<section class="plan facilities-wrapper flex two-col {% if section_index == 1 %}ripped-cream{% else %}white ripped{% endif %}{% if forloop.last %} {% if section_index == 1 %}after-ripped-cream{% else %}after-ripped{% endif %}{% endif %}">
     <div class="container flex">
 
       <div class="left">
