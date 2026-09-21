@@ -62,27 +62,7 @@ layout: default
 
   {% endfor %}
 
-  <section id="yoga" class="plan facilities-wrapper flex two-col">
-    <div class="container flex">
-
-      <div class="left">
-        <h4>{{ page.["Yoga Title"] }}</h4>
-        <p>{{ page.["YOGA Description"] | markdownify }}</p>
-      </div>
-
-      <div class="right">
-        <div class="owl-carousel owl-theme">
-          {% for image in page.["YOGA Images"] %}
-          <div class="item frame">
-            <img class="owl-img" src="{{ image }}" alt="Yoga">
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
-    </div>
-  </section>
-
+ 
 
 
 </section>
