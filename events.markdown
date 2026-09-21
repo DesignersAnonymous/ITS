@@ -97,22 +97,48 @@ sections:
   - "/uploads/vXmIIQtd.jpeg"
   - "/uploads/xzZZBq51.jpeg"
   - 
+- title: Retreats
+  description: We're excited to announce a series of unique retreats coming your way
+    throughout the year! Our first retreat kicks off on June 20th, 2025. Stay tuned
+    for more details! Sign up here to be the first to receive updates and secure your
+    spot. Don’t miss out on this opportunity to unwind and reconnect!
+  images:
+  - "/uploads/group%20yoga.jpg"
+  - "/assets/images/image-1.jpg"
+  - "/assets/images/image-1.jpg"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
-Parties Description: "If you're searching for a special venue to host your celebration,
-  look no further than In the Stix! Our enchanting event space has been the backdrop
-  for countless memorable occasions, including birthdays, wedding anniversaries, vow
-  renewals, special milestones, and hen parties. It’s the perfect gathering spot for
-  friends and loved ones.\n\nFor those who want to add music to the festivities, we
-  can easily apply for an events license. We also offer the option to hire a bar,
-  sound equipment, and even a DJ to bring your celebration to life. Whatever your
-  vision, we are here to help you make it a reality. \n\nIn addition, we partner with
-  fantastic local chefs who can cater to your culinary desires, whether you’re craving
-  pizzas, Thai food, or something else entirely. \n\nThe space can be booked for just
-  a night or for an entire weekend, and if you reserve all the domes, you’ll enjoy
-  exclusive use of the entire site. Let us help you create an unforgettable celebration
-  at In the Stix!\n\nEmail us with your enquiry."
+Parties Description: |-
+  If you're searching for a special venue to host your celebration, look no further than In the Stix! Our enchanting event space has been the backdrop for countless memorable occasions, including birthdays, wedding anniversaries, vow renewals, special milestones, and hen parties. It’s the perfect gathering spot for friends and loved ones.
+
+  For those who want to add music to the festivities, we can easily apply for an events license. We also offer the option to hire a bar, sound equipment, and even a DJ to bring your celebration to life. Whatever your vision, we are here to help you make it a reality.
+
+  In addition, we partner with fantastic local chefs who can cater to your culinary desires, whether you’re craving pizzas, Thai food, or something else entirely.
+
+  The space can be booked for just a night or for an entire weekend, and if you reserve all the domes, you’ll enjoy exclusive use of the entire site. Let us help you create an unforgettable celebration at In the Stix!
+
+  Email us with your enquiry.\
+  \
+  \
+  Remove
 Parties Images:
 - "/uploads/e7a9a14d-a8e1-4dc7-a78e-c93a83316b27.JPG"
 - "/uploads/cbebba09-4152-4015-9563-ef3aee7aa202.JPG"
@@ -147,7 +173,10 @@ Wedding Description: |-
 
   You are free to book your own suppliers and make your day as unique as our location! Please call us if you would like to arrange a site visit or discuss your big day in more detail, we are here to help.\
   \
-  [Click here for the wedding PDF brochure](https://inthestix.co.uk/uploads/In%20the%20Stix%202026.pdf)
+  [Click here for the wedding PDF brochure](https://inthestix.co.uk/uploads/In%20the%20Stix%202026.pdf)\
+  \
+  \
+  Remove
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/uploads/j_fbb5j8-1.jpeg"
@@ -168,10 +197,10 @@ Weddings Images:
 - "/uploads/urEgWlXB.jpeg"
 - "/uploads/vXmIIQtd.jpeg"
 - "/uploads/xzZZBq51.jpeg"
-Retreats Description: We're excited to announce a series of unique retreats coming
-  your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay
-  tuned for more details! Sign up here to be the first to receive updates and secure
-  your spot. Don’t miss out on this opportunity to unwind and reconnect!
+Retreats Description: |-
+  We're excited to announce a series of unique retreats coming your way throughout the year! Our first retreat kicks off on June 20th, 2025. Stay tuned for more details! Sign up here to be the first to receive updates and secure your spot. Don’t miss out on this opportunity to unwind and reconnect!\
+  \
+  Remove
 Retreats Images:
 - "/uploads/group%20yoga.jpg"
 - "/assets/images/image-1.jpg"
