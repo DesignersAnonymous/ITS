@@ -62,26 +62,6 @@ layout: default
 
   {% endfor %}
 
-  <section id="spa-days" class="plan facilities-wrapper flex two-col white">
-    <div class="container flex">
-      <div class="left">
-        <h4>{{ page.["Spa Days Title"] }}</h4>
-        <p>{{ page.["Spa Days Description"] | markdownify }}</p>
-      </div>
-
-      <div class="right">
-        <div class="owl-carousel owl-theme">
-          {% for image in page.["Spa Days Images"] %}
-          <div class="item frame">
-            <img class="owl-img" src="{{ image }}" alt="Spa Days">
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <section id="yoga" class="plan facilities-wrapper flex two-col">
     <div class="container flex">
 
