@@ -46,23 +46,42 @@ layout: default
                 </div>  
             </div>
         </div>
-    </section>
-    <section id="events-retreats" class="plan facilities-wrapper flex two-col ">
-        <div class="container flex">
-            <div class="left">
+        </section>
+    
+    <section id="events-retreats" class="plan facilities-wrapper flex two-col">
+    <div class="container flex">
+
+        <div class="left">
             <h4>RETREATS</h4>
             <p>{{ page.["Retreats Description"] | markdownify }}</p>
             <a href="/book-now/#spa" class="btn">Book Now</a>
-            </div>
-            <div class="right">
-                <div id="owl-demo" class="owl-carousel owl-theme">
-                    {% for image in page.["Retreats Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Retreats"></div>
-                    {% endfor %}
-                </div>  
+        </div>
+
+        <div class="right">
+            <div class="custom-carousel" data-carousel-id="events-retreats-carousel">
+
+                <div class="carousel-frame">
+                    <div class="carousel-track">
+
+                        {% for image in page.["Retreats Images"] %}
+                        <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                            <img src="{{ image }}" alt="Retreats">
+                        </div>
+                        {% endfor %}
+
+                    </div>
+                </div>
+
+                {% if page.["Retreats Images"].size > 1 %}
+                <button class="carousel-arrow carousel-prev" aria-label="Previous"></button>
+                <button class="carousel-arrow carousel-next" aria-label="Next"></button>
+                {% endif %}
+
             </div>
         </div>
-    </section>
+
+    </div>
+</section>
     <!--section id="bbqs" class="plan facilities-wrapper flex two-col white ripped after-ripped">
         <div class="container flex">
             <div class="left">
