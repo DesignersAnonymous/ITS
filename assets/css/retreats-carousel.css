@@ -214,3 +214,87 @@
     padding: 15px;
   }
 }
+
+/* ============================================
+   MATCH OLD OWL CAROUSEL IMAGE POSITIONING
+   ============================================ */
+
+.custom-carousel {
+  box-sizing: border-box;
+}
+
+/* Match the old Owl image window */
+.carousel-frame {
+  width: 84%;
+  height: 440px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-track,
+.carousel-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-slide {
+  overflow: hidden;
+}
+
+/* Fill the frame exactly like the old Owl carousel */
+.carousel-slide img {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none;
+  max-height: none;
+  object-fit: cover;
+  object-position: center;
+  margin: 0;
+}
+
+/* Keep arrows centred vertically around the image */
+.carousel-arrow {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carousel-prev {
+  left: 0;
+}
+
+.carousel-next {
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .custom-carousel {
+    width: 100%;
+    max-width: none;
+    height: 440px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .carousel-frame {
+    width: 84%;
+    height: 440px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .custom-carousel {
+    height: 440px;
+    padding: 0;
+  }
+
+  .carousel-frame {
+    width: 84%;
+    height: 440px;
+  }
+}
