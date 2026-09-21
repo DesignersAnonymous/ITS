@@ -75,7 +75,7 @@ Wedding Description: |-
 
   You are free to book your own suppliers and make your day as unique as our location! Please call us if you would like to arrange a site visit or discuss your big day in more detail, we are here to help.\
   \
-  [Click here for the wedding PDF brochure](http://uploads/In%20the%20Stix%202026.pdf)
+  [Click here for the wedding PDF brochure](https://inthestix.co.uk/uploads/In%20the%20Stix%202026.pdf)
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/uploads/j_fbb5j8-1.jpeg"
