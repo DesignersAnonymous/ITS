@@ -15,24 +15,6 @@ layout: default
 </section>
 <link rel="stylesheet" href="/assets/css/retreats-carousel.css">
 <section id="feastings">
-
-    <section id="weddings" class="plan facilities-wrapper flex two-col white ripped after-ripped">
-        <div class="container flex">
-            <div class="left">
-            <h4>WEDDINGS</h4>
-<div class="wedding-description">
-    {{ page.["Wedding Description"] | markdownify }}
-</div>
-            </div>
-            <div class="right">
-                <div id="owl-demo" class="owl-carousel owl-theme">
-                    {% for image in page.["Weddings Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Weddings"></div>
-                    {% endfor %}
-                </div>  
-            </div>
-        </div>
-        </section>
     
     <section id="events-retreats" class="plan facilities-wrapper flex two-col">
     <div class="container flex">
