@@ -123,6 +123,8 @@ sections:
   - 
   - 
   - 
+  button_text: Book Now
+  button_link: "/book-now/#spa"
 Hero Description: Whether you are looking to have a festival style wedding, a luxurious
   bohemian party, a relaxed picnic – whatever your style and taste, our site is a
   blank canvas for your perfect celebration.
