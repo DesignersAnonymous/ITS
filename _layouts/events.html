@@ -34,10 +34,9 @@ layout: default
         <div class="container flex">
             <div class="left">
             <h4>WEDDINGS</h4>
-            <p>{{ page.["Wedding Description"] | markdownify }}</p>
-            <p class="brochure-link">
-  <a href="https://inthestix.co.uk/uploads/In%20the%20Stix%202025.pdf" target="_blank">Click here for a pdf wedding brochure.</a>
-</p>
+<div class="wedding-description">
+    {{ page.["Wedding Description"] | markdownify }}
+</div>
             </div>
             <div class="right">
                 <div id="owl-demo" class="owl-carousel owl-theme">
@@ -126,4 +125,10 @@ layout: default
 {% endfor %}
 
 <script src="/assets/js/retreats-carousel.js"></script>
+<script>
+document.querySelectorAll('.wedding-description a').forEach(function(link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+});
+</script>
 </section>
