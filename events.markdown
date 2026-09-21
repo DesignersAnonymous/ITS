@@ -59,24 +59,25 @@ Wedding Description: "Whether you are looking to have a festival style wedding, 
   Friday (4 nights) or Friday – Monday (3 nights) offering either a midweek wedding
   or a weekend wedding. The midweek option gives you the fourth day free of charge.\n\n**Option
   One:**\nThis is for a large wedding that requires the additional land hire of our
-  top\nfield for a marquee or extra camping.\nOur hire price includes the hire of
-  the land for 5 days and all our 6\nglamping domes for 3 nights (Friday, Saturday
-  and Sunday)\nLOW SEASON £4,590 MID SEASON A £5,190 HIGH SEASON £5,790\nOur land
-  hire is from a Wednesday 09:00am through to Monday 13:00pm\n– to give your suppliers
-  time to set up and clear down. (However, dome\ncheck out is at 10am on the Monday)
-  This will allow you to have a Friday\nor Saturday wedding.\n\n**Option Two:**\nThis
-  is for a smaller wedding (maximum 50 people) This option does not\nrequire any land
-  hire as the reception can be held in our event space.\nOur hire price includes the
-  hire of the event space for 3 nights and all our\nglamping domes for 3 nights (Friday,
-  Saturday and Sunday)\nLOW SEASON £3,590 MID SEASON £4,190 HIGH SEASON £4,790\nOur
-  domes can accommodate up to 6 people per dome – having the\ncapacity to host 36
-  guests including the couple. If you wished, you can\ncharge your guests per head
-  to stay in the domes to re-coup part of the\ncost.\n\nWe want to provide you with
-  as much flexibility as we can to create your own day; whether you chose to say “I
-  do” elsewhere and just party the night away with us or have an outdoor ceremony
-  right here by our babbling brook. \n\nYou are free to book your own suppliers and
-  make your day as unique as our location! Please call us if you would like to arrange
-  a site visit or discuss your big day in more detail, we are here to help.\n"
+  top field for a marquee or extra camping.\nOur hire price includes the hire of the
+  land for 5 days and all our 6 glamping domes for 3 nights (Friday, Saturday and
+  Sunday)\n\nLOW SEASON (April, May, Oct) £5080\n\nHIGH SEASON (June, July, August,
+  September) £6580\n\nOur land hire is from a Wednesday 09:00am through to Monday
+  13:00pm – to give your suppliers time to set up and clear down. (However, dome check
+  out is at 10am on the Monday) This will allow you to have a Friday or Saturday wedding.\n\n\n**Option
+  Two:**\nThis is for a smaller wedding (maximum 50 people) This option does not require
+  any land hire as the reception can be held in our event space.  Our hire price includes
+  the hire of the event space for 3 nights and all our glamping domes for 3 nights
+  (Friday, Saturday and Sunday)\n\nLOW SEASON (April, May, Oct) £4220\n\nHIGH SEASON
+  (June, July, August, September) £5720\n\nOur domes can accommodate up to 6 people
+  per dome – having the capacity to host 36 guests including the couple. If you wished,
+  you could charge your guests per head to stay in the domes to re-coup part of the.
+  cost.\n\n\nWe want to provide you with as much flexibility as we can to create your
+  own day; whether you chose to say “I do” elsewhere and just party the night away
+  with us or have an outdoor ceremony right here by our babbling brook. \n\nYou are
+  free to book your own suppliers and make your day as unique as our location! Please
+  call us if you would like to arrange a site visit or discuss your big day in more
+  detail, we are here to help.\n"
 Weddings Images:
 - "/assets/images/image-2.jpg"
 - "/uploads/j_fbb5j8-1.jpeg"
