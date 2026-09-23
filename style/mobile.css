@@ -412,6 +412,23 @@
     .facilities-wrapper .left {
         text-align: center !important;
     }
+    
+    .facilities-wrapper .left h3 {
+    text-align: center !important;
+    width: 100% !important;
+}
+
+.facilities-wrapper .left ul {
+    display: inline-block !important;
+    text-align: left !important;
+    padding-left: 25px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.facilities-wrapper .left li {
+    text-align: left !important;
+}
 
     .facilities-wrapper .left .btn {
         margin-left: auto;
