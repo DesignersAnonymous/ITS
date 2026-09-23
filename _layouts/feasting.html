@@ -27,11 +27,22 @@ layout: default
             <p>{{ page.["Smoke N Sticks Description"] }}</p>
             </div>
             <div class="right">
-                <div id="owl-demo" class="owl-carousel owl-theme">
-                    {% for image in page.["Smoke N Sticks Images"] %}
-                    <div class="item"><img src="{{ image }}" alt="Smoke N Stix"></div>
-                    {% endfor %}
-                </div>  
+            <div class="custom-carousel" data-carousel-id="carousel-smoke">
+    <div class="carousel-frame">
+        <div class="carousel-track">
+            {% for image in page.["Smoke N Sticks Images"] %}
+            <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+                <img src="{{ image }}" alt="Smoke N Stix">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    {% if page.["Smoke N Sticks Images"].size > 1 %}
+    <button class="carousel-arrow carousel-prev" aria-label="Previous"></button>
+    <button class="carousel-arrow carousel-next" aria-label="Next"></button>
+    {% endif %}
+</div>
             </div>
         </div>
     </section>
