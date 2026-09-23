@@ -419,17 +419,19 @@
 }
 
 .facilities-wrapper .left ul {
-    display: inline-block !important;
-    text-align: center !important;
+    list-style: none !important;
     padding-left: 0 !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    list-style-position: inside !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
 }
 
 .facilities-wrapper .left li {
     text-align: center !important;
     padding-left: 0 !important;
+}
+
+.facilities-wrapper .left li::before {
+    content: "• ";
 }
 
     .facilities-wrapper .left .btn {
