@@ -14,9 +14,8 @@ sections:
     Sauna, hot tub & cold plunge experience\n\n* Cold plunge & shower using fresh
     well water\n\n* 1 large wood-fired pizza per person\n\n* House salad and welcome
     drink\n\n* A relaxed, social atmosphere\n\nWe have 2 ticket options\n\n**Spa &
-    Pizza**\n£45 per person\n\n**Just Pizza**\n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
-    spaces available.\nMinimum of 6 guests required for the event to run.\nTickets
-    are non-transferable."
+    Pizza**\n£45 per person\n\n**Just Pizza**\n£20 per person\n\n\nLimited spaces
+    available.\nMinimum of 6 guests required for the event to run.\nTickets are non-transferable."
   images:
   - "/uploads/sunsetspa-thumbnail-5.jpg"
   - "/uploads/sunsetspa-thumbnail-1.jpg"
