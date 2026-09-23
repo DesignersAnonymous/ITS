@@ -12,6 +12,7 @@ Hero Description: |
 
   A place to gather. Space to breathe. Experiences your guests will remember long after they leave.
 sections:
+- title: Retreats
 - description: |+
     Set within peaceful rural surroundings beneath the Rutland skies, our boutique glamping retreat provides the perfect balance of comfort, nature and privacy. With luxury domes, wood-fired hot tubs, communal gathering spaces and open outdoor areas, guests can fully switch off from the distractions of everyday life and immerse themselves in the experience you create.
 
