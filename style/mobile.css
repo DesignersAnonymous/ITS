@@ -421,13 +421,15 @@
 .facilities-wrapper .left ul {
     display: inline-block !important;
     text-align: center !important;
-    padding-left: 25px !important;
+    padding-left: 0 !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    list-style-position: inside !important;
 }
 
 .facilities-wrapper .left li {
     text-align: center !important;
+    padding-left: 0 !important;
 }
 
     .facilities-wrapper .left .btn {
