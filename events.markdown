@@ -8,13 +8,13 @@ sections:
     — a relaxed, feel-good experience designed to help you switch off and slow down.
     Move between the sauna, hot tub, cold plunge and refreshing cold shower — all
     fed from our natural well water. Then settle in with hand-stretched, wood-fired
-    pizzas served throughout the evening.\n\n### \U0001F355 What’s on the menu? \U0001F355\n\n-
-    Margherita (San Marzano tomato, mozzarella, fresh basil)\n- Nduja & Hot Honey\n-
-    Prosciutto, Rocket & Parmesan\n- Garden Veg (Vegan)\n\n### What’s included:\n\n-
-    Sauna, hot tub & cold plunge experience\n- Cold plunge & shower using fresh well
-    water\n- 1 large wood-fired pizza per person\n- House salad and welcome drink\n-
-    A relaxed, social atmosphere\n\nWe have 2 ticket options\n\n**Spa & Pizza**\n£45
-    per person\n\n**Just Pizza**\n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
+    pizzas served throughout the evening.\n\n### \U0001F355 What’s on the menu? \U0001F355\n\n*
+    Margherita (San Marzano tomato, mozzarella, fresh basil)\n\n* Nduja & Hot Honey\n\n*
+    Prosciutto, Rocket & Parmesan\n\n* Garden Veg (Vegan)\n\n### What’s included:\n\n*
+    Sauna, hot tub & cold plunge experience\n\n* Cold plunge & shower using fresh
+    well water\n\n* 1 large wood-fired pizza per person\n\n* House salad and welcome
+    drink\n\n* A relaxed, social atmosphere\n\nWe have 2 ticket options\n\n**Spa &
+    Pizza**\n£45 per person\n\n**Just Pizza**\n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
     spaces available.\nMinimum of 6 guests required for the event to run.\nTickets
     are non-transferable."
   images:
@@ -25,6 +25,8 @@ sections:
   - "/uploads/sunsetspa-thumbnail-2.jpg"
   - "/uploads/sunsetspa-thumbnail-3.jpg"
   - "/uploads/sunsetspa-thumbnail-4.jpg"
+  button_text: BOOK NOW
+  button_link: https://inthestix.co.uk/book-now/
 - title: Celebrations
   description: |-
     If you're searching for a special venue to host your celebration, look no further than In the Stix! Our enchanting event space has been the backdrop for countless memorable occasions, including birthdays, wedding anniversaries, vow renewals, special milestones, and hen parties. It’s the perfect gathering spot for friends and loved ones.
