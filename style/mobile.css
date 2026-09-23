@@ -420,14 +420,14 @@
 
 .facilities-wrapper .left ul {
     display: inline-block !important;
-    text-align: left !important;
+    text-align: center !important;
     padding-left: 25px !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }
 
 .facilities-wrapper .left li {
-    text-align: left !important;
+    text-align: center !important;
 }
 
     .facilities-wrapper .left .btn {
