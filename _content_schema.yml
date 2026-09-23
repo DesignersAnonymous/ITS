@@ -33,3 +33,20 @@ events:
         fields:
           - type: image
             label: Upload Image
+retreats:
+  sections:
+    type: list
+    label: Sections
+    fields:
+      title:
+        type: string
+        label: Section Title
+      description:
+        type: markdown
+        label: Description
+      images:
+        type: list
+        label: Images
+        fields:
+          - type: image
+            label: Upload Image
