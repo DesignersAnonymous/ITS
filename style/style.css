@@ -2100,19 +2100,30 @@ footer { min-height: 0; }           /* or: min-height: unset; */
   }
 	
 @media (max-width: 768px) {
+
     .plan.facilities-wrapper .left ul {
         list-style: none !important;
-        padding-left: 0 !important;
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-        text-align: center !important;
+        padding: 0 !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: fit-content !important;
     }
 
     .plan.facilities-wrapper .left li {
-        text-align: center !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: baseline !important;
+        justify-content: center !important;
+        text-align: left !important;
+        width: fit-content !important;
+        max-width: 100% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
     }
 
     .plan.facilities-wrapper .left li::before {
-        content: "•\00a0";
+        content: "•" !important;
+        flex: 0 0 auto !important;
+        margin-right: 0.35em !important;
     }
 }
