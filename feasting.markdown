@@ -156,6 +156,5 @@ Breakfast hampers:
     * 500G DAIRY FREE NATURAL YOGURT ALTERNATIVE
     * 3 LITERS OF OATLY ORGANIC OAT MILK
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8858-Edit.jpg"
-layout: feasting
 ---
 
