@@ -1,6 +1,7 @@
 ---
 title: Feasting
 permalink: "/feasting/"
+layout: feasting
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
 Intro Title: Locally sourced organic produce
