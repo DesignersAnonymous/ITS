@@ -29,10 +29,14 @@ layout: default
       <section class="plan facilities-wrapper flex two-col white ripped">
         {% endif %}
         <div class="container flex">
-          <div class="left">
-            <h4>{{ section.title }}</h4>
-            <p>{{ section.description | markdownify }}</p>
-          </div>
+<div class="left">
+    <h4>{{ section.title }}</h4>
+    <p>{{ section.description | markdownify }}</p>
+
+    {% if section.button_text and section.button_link %}
+    <a href="{{ section.button_link }}" class="button">{{ section.button_text }}</a>
+    {% endif %}
+</div>
           <div class="right">
             <div class="custom-carousel" data-carousel-id="carousel-{{ forloop.index }}">
               <div class="carousel-frame">
