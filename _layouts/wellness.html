@@ -22,10 +22,14 @@ layout: default
 <section class="plan facilities-wrapper flex two-col {% if section_index == 1 %}ripped-cream{% else %}white ripped{% endif %}">
     <div class="container flex">
 
-      <div class="left">
-        <h4>{{ section.title }}</h4>
-        {{ section.description | markdownify }}
-      </div>
+<div class="left">
+  <h4>{{ section.title }}</h4>
+  {{ section.description | markdownify }}
+
+  {% if section.button_text and section.button_link %}
+  <a href="{{ section.button_link }}" class="button">{{ section.button_text }}</a>
+  {% endif %}
+</div>
 
       <div class="right">
 
