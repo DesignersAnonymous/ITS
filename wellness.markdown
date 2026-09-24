@@ -17,6 +17,8 @@ sections:
     per person\n\n**Just Pizza**\n£20 per person\n\n[Book now](https://inthestix.co.uk/book-now/)\n\nLimited
     spaces available.\nMinimum of 6 guests required for the event to run.\nTickets
     are non-transferable."
+  button_text: BOOK NOW
+  button_link: https://inthestix.co.uk/book-now/
   images:
   - "/uploads/sunsetspa-thumbnail.jpg"
   - "/uploads/sunsetspa-thumbnail-1.jpg"
@@ -25,8 +27,6 @@ sections:
   - "/uploads/sunsetspa-thumbnail-4.jpg"
   - "/uploads/sunsetspa-thumbnail-6.jpg"
   - "/uploads/sunsetspa-thumbnail-5.jpg"
-  button_text: BOOk NOW
-  button_link: https://inthestix.co.uk/book-now/
 - title: Spa Days
   description: |-
     We are thrilled to announce the launch of our new spa days for 2025! Join us for a rejuvenating morning or afternoon session, perfect for couples or groups of up to 6 people. This exclusive experience offers unlimited access to our fantastic wellness facilities, including the log-fired barrel sauna, cold water shower, and cold plunge bath.
