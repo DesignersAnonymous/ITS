@@ -30,10 +30,19 @@ sections:
   - "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
   - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
   - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
-
 - title: BBQ's
-  description: |
-    Each of our domes is equipped with its own outdoor cooking setup, so you can embrace al fresco dining during your stay. Domes 1 to 4 feature our fantastic log-fired ovens — incredibly versatile, they allow you to cook pizzas directly on the hot stones for that authentic crispy base, or use the baking trays provided to whip up all kinds of delicious meals. Domes 5 and 6 come with our new ceramic eggs, a wonderful bit of kit that burns charcoal (supplied on site). Perfect for traditional BBQs, these ceramic eggs can also be used as an oven for slow-roasting, or fitted with a pizza stone so you can craft your own homemade pizza. Whatever you choose, you’ll have everything you need to cook up a memorable feast under the stars.
+  description: 'Each of our domes is equipped with its own outdoor cooking setup,
+    so you can embrace al fresco dining during your stay. Domes 1 to 4 feature our
+    fantastic log-fired ovens — incredibly versatile, they allow you to cook pizzas
+    directly on the hot stones for that authentic crispy base, or use the baking trays
+    provided to whip up all kinds of delicious meals. Domes 5 and 6 come with our
+    new ceramic eggs, a wonderful bit of kit that burns charcoal (supplied on site).
+    Perfect for traditional BBQs, these ceramic eggs can also be used as an oven for
+    slow-roasting, or fitted with a pizza stone so you can craft your own homemade
+    pizza. Whatever you choose, you’ll have everything you need to cook up a memorable
+    feast under the stars.
+
+'
   images:
   - "/uploads/IMG_9253.jpg"
   - "/uploads/IMG_9254.jpg"
@@ -41,10 +50,16 @@ sections:
   - "/uploads/81a9d4f3-624b-4a6e-aca2-faba6440c3bf.JPG"
   - "/uploads/6acaa227-7ee8-43f0-a106-34b57f2779e7.JPG"
   - "/uploads/in%20the%20stix%20event%20spaceWhatsApp%20Image%202022-09-26%20at%20in%20the%20stix%20event%20space9.5in%20the%20stix%20event%20space.33-0a89d3.jpeg"
-
 - title: Pizza & Steak Nights
-  description: |
-    If you’re looking to enjoy a relaxing evening without the hassle of cooking, let us take care of your meal! We can organize a delicious dining experience tailored to your preferences, allowing you to unwind and savour the moment with your guests. Whether it’s a gourmet dinner prepared by local chefs or our famous pizza and steak nights, we’ll ensure that your culinary needs are met so you can focus on what truly matters—making memories with your loved ones. Just let us know what you have in mind, and we’ll handle the rest!
+  description: 'If you’re looking to enjoy a relaxing evening without the hassle of
+    cooking, let us take care of your meal! We can organize a delicious dining experience
+    tailored to your preferences, allowing you to unwind and savour the moment with
+    your guests. Whether it’s a gourmet dinner prepared by local chefs or our famous
+    pizza and steak nights, we’ll ensure that your culinary needs are met so you can
+    focus on what truly matters—making memories with your loved ones. Just let us
+    know what you have in mind, and we’ll handle the rest!
+
+'
   images:
   - "/uploads/In%20the%20Stix%20Lifestyle_DSC8921-Editcopy-6ca7da.jpg"
   - "/uploads/In%20the%20Stix%20Lifestyle_DSC9394-Edit.jpg"
