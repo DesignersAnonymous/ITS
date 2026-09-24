@@ -1,7 +1,6 @@
 ---
 title: Feasting
 permalink: "/feasting/"
-layout: feasting
 Hero Description: Discover locally sourced organic produce and enjoy exquisite dining
   experiences curated just for you.
 Intro Title: Locally sourced organic produce
@@ -109,20 +108,20 @@ Breakfast hampers:
   Description: |-
     **SMALL VEGGIE HAMPER £50**
 
-    (ALL THE BELOW MINUS MEAT)
+    (All the below minus meat)
 
-    * 6 FARMER LOU LINCOLNSHIRE SAUSAGES.
-    * 6 FARMER LOU BACK BACON.
-    * 2 LARGE HAMBLETON BAKERY BREAKFAST MUFFINS.
-    * 2 HAMBLETON BAKERY CROISSANTS
-    * 1 SMALL HAMBLETON BAKERY SEVEN CEREAL LOAF.
-    * 1 JAR OF HAMBLETON BAKERY MARMALADE OR JAM.
-    * 6 LOCALLY SOURCED FREE RANGE EGGS.
-    * 280G JUST SO GOOD GRANOLA.
-    * 2 LITERS OF ORGANIC SEMI SKIMMED MILK.
-    * 1 LITER OF FRESH ORANGE JUICE.
-    * 250G TWO CHIMPS GROUND COFFEE.
-    * 250G LOCALLY SOURCED BUTTER.
+    * 6 Farmer Lou Lincolnshire sausages.
+    * 6 Farmer Lou back bacon.
+    * 2 large Hambleton Bakery breakfast muffins.
+    * 2 Hambleton Bakery croissants.
+    * 1 small Hambleton Bakery Seven Cereal loaf.
+    * 1 jar of Hambleton Bakery marmalade or jam.
+    * 6 locally sourced free-range eggs.
+    * 280g Just So Good granola.
+    * 2 litres of organic semi-skimmed milk.
+    * 1 litre of fresh orange juice.
+    * 250g Two Chimps ground coffee.
+    * 250g locally sourced butter.
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC9134-Edit.jpg"
 - Title: Large Hamper £95
   Description: |
@@ -130,31 +129,32 @@ Breakfast hampers:
 
     (ALL THE BELOW MINUS THE MEAT)
 
-    * 12 FARMER LOU LINCOLNSHIRE SAUSAGES.
-    * 12 FARMER LOU BACK BACON.
-    * 4 LARGE HAMBLETON BAKERY BREAKFAST MUFFINS.
-    * 4 HAMBLETON BAKERY CROISSANTS
-    * LARGE HAMBLETON BAKERY SEVEN CEREAL LOAF.
-    * 1 JAR HAMBLETON BAKERY MARMALADE OR JAM.
-    * 2 LOCALLY SOURCED FREE RANGE EGGS.
-    * 440G JUST SO GOOD GRANOLA.
-    * 2 LITERS OF ORGANIC SEMI SKIMMED MILK.
-    * 2 LITERS OF FRESH ORANGE JUICE.
-    * 250G TWO CHIMPS GROUND COFFEE.
-    * 250G LOCALLY SOURCED BUTTER.
+    * 12 Farmer Lou Lincolnshire sausages.
+    * 12 Farmer Lou back bacon.
+    * 4 large Hambleton Bakery breakfast muffins.
+    * 4 Hambleton Bakery croissants.
+    * 1 large Hambleton Bakery Seven Cereal loaf.
+    * 1 jar of Hambleton Bakery marmalade or jam.
+    * 2 locally sourced free-range eggs.
+    * 440g Just So Good granola.
+    * 2 litres of organic semi-skimmed milk.
+    * 2 litres of fresh orange juice.
+    * 250g Two Chimps ground coffee.
+    * 250g locally sourced butter.
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8850-Editcopy.jpg"
 - Title: Large Vegan Hamper £50
   Description: |-
     **SMALL VEGAN HAMPER £45**
 
-    * 8 LARGE HAMBLETON BAKERY BREAKFAST MUFFINS.
-    * 1 LARGE HAMBLETON BAKERY WHOLE-MEAL LOAF.
-    * 1 JAR OF BARLOW’S OF BELVOIR MARMALADE OR JAM.
-    * 440G JUST SO GOOD GRANOLA.
-    * 2 LITERS OF FRESH ORANGE JUICE.
-    * 50G TWO CHIMPS GROUND COFFEE.
-    * 500G DAIRY FREE NATURAL YOGURT ALTERNATIVE
-    * 3 LITERS OF OATLY ORGANIC OAT MILK
+    * 8 large Hambleton Bakery breakfast muffins.
+    * 1 large Hambleton Bakery wholemeal loaf.
+    * 1 jar of Barlow’s of Belvoir marmalade or jam.
+    * 440g Just So Good granola.
+    * 2 litres of fresh orange juice.
+    * 50g Two Chimps ground coffee.
+    * 500g dairy-free natural yogurt alternative.
+    * 3 litres of Oatly organic oat milk.
   Image: "/uploads/In%20the%20Stix%20Outdoors_DSC8858-Edit.jpg"
+layout: feasting
 ---
 
