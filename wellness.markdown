@@ -25,6 +25,8 @@ sections:
   - "/uploads/sunsetspa-thumbnail-4.jpg"
   - "/uploads/sunsetspa-thumbnail-6.jpg"
   - "/uploads/sunsetspa-thumbnail-5.jpg"
+  button_text: BOOk NOW
+  button_link: https://inthestix.co.uk/book-now/
 - title: Spa Days
   description: |-
     We are thrilled to announce the launch of our new spa days for 2025! Join us for a rejuvenating morning or afternoon session, perfect for couples or groups of up to 6 people. This exclusive experience offers unlimited access to our fantastic wellness facilities, including the log-fired barrel sauna, cold water shower, and cold plunge bath.
