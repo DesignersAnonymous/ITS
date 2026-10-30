@@ -4,11 +4,7 @@ date: 2025-02-13 03:49:00 Z
 layout: standard
 ---
 
-# Privacy Policy
-
 **In The Stix Boutique Retreat & Spa**
-
-**Last updated: 30 October 2026**
 
 ## 1. Who we are
 
@@ -337,3 +333,5 @@ Website: https://ico.org.uk
 Telephone: 0303 123 1113
 
 The ICO is the UK's independent regulator responsible for upholding information rights and data protection.
+
+**Last updated: 30 October 2026**
