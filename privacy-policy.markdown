@@ -4,8 +4,6 @@ date: 2025-02-13 03:49:00 Z
 layout: standard
 ---
 
-**In The Stix Boutique Retreat & Spa**
-
 ## 1. Who we are
 
 In The Stix Boutique Retreat & Spa ("In The Stix", "we", "us" or "our") is committed to protecting and respecting your privacy.
