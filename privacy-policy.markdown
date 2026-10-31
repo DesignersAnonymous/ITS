@@ -27,10 +27,10 @@ Contact email: hello@inthestix.co.uk
 We may collect and process the following types of personal information when you visit our website, contact us, make a booking or use our facilities and services.
 
 **Personal and contact information**
-- Full name
-- Email address
-- Telephone number
-- Home or billing address
+* - Full name
+* - Email address
+* - Telephone number
+* - Home or billing address* 
 
 **Booking and guest information**
 - Booking dates and accommodation preferences
