@@ -22,7 +22,7 @@ Website: https://inthestix.co.uk
 
 Contact email: hello@inthestix.co.uk
 
-## 2. Information we collect
+### 2. Information we collect
 
 We may collect and process the following types of personal information when you visit our website, contact us, make a booking or use our facilities and services.
 
@@ -64,7 +64,7 @@ When you visit our website, we may collect:
 
 This information helps us understand how visitors use our website and improve the experience.
 
-## 3. How we collect your information
+### 3. How we collect your information
 
 We collect personal information in several ways:
 
@@ -88,7 +88,7 @@ These providers may process personal information on our behalf or as separate da
 
 We may collect technical information through cookies and similar technologies, subject to your cookie preferences and applicable legal requirements.
 
-## 4. How we use your information
+### 4. How we use your information
 
 We use your personal information for the following purposes:
 
@@ -128,7 +128,7 @@ You can unsubscribe from marketing communications at any time.
 - Improving our website, facilities and services.
 - Monitoring website performance and security.
 
-## 5. Our lawful basis for processing your information
+### 5. Our lawful basis for processing your information
 
 We will only process your personal information where we have a valid legal basis to do so.
 
@@ -154,7 +154,7 @@ Where you have given us permission to use your information for a specific purpos
 
 You can withdraw your consent at any time.
 
-## 6. Marketing communications
+### 6. Marketing communications
 
 We would love to keep in touch and let you know about what's happening at In The Stix.
 
@@ -168,7 +168,7 @@ You can unsubscribe at any time by clicking the unsubscribe link at the bottom o
 
 We will not sell your personal information or pass your details to other businesses for their own marketing purposes without your permission.
 
-## 7. Who we share your information with
+### 7. Who we share your information with
 
 We respect your privacy and only share personal information where necessary to operate our business, provide our services or meet our legal obligations.
 
@@ -186,7 +186,7 @@ These organisations may only use your information in accordance with their appli
 
 We do not sell, rent or trade your personal information.
 
-## 8. How long we keep your information
+### 8. How long we keep your information
 
 We only retain personal information for as long as reasonably necessary for the purposes for which it was collected.
 
@@ -200,7 +200,7 @@ For example:
 
 When information is no longer required, we will securely delete it or anonymise it.
 
-## 9. Cookies and website tracking
+### 9. Cookies and website tracking
 
 Our website may use cookies and similar technologies to improve your browsing experience and understand how visitors use our website.
 
@@ -226,7 +226,7 @@ You can manage your cookie preferences through the cookie settings available on 
 
 Please be aware that disabling certain cookies may affect some website functionality.
 
-## 10. Keeping your information secure
+### 10. Keeping your information secure
 
 We take appropriate technical and organisational measures to protect personal information against accidental loss, unauthorised access, alteration or disclosure.
 
@@ -236,7 +236,7 @@ Where we use third-party providers, we take reasonable steps to ensure they have
 
 However, no method of transmitting information over the internet or storing electronic information can be guaranteed to be completely secure.
 
-## 11. International transfers of information
+### 11. International transfers of information
 
 Some of the third-party providers we use may store or process personal information outside the United Kingdom.
 
@@ -246,7 +246,7 @@ These safeguards may include UK adequacy regulations, the UK International Data 
 
 You can contact us if you would like further information about international transfers and the safeguards we use.
 
-## 12. Your rights
+### 12. Your rights
 
 Under applicable data protection legislation, you have a number of rights concerning your personal information.
 
@@ -288,7 +288,7 @@ We may need to verify your identity before responding to certain requests.
 
 We will normally respond within one month, subject to any lawful extension.
 
-## 13. Third-party websites
+### 13. Third-party websites
 
 Our website may contain links to external websites, booking platforms or third-party services.
 
@@ -296,7 +296,7 @@ These websites operate independently of In The Stix and may have their own priva
 
 We are not responsible for the privacy practices or content of external websites. We recommend reading their privacy policies before providing personal information.
 
-## 14. Children's information
+### 14. Children's information
 
 Our accommodation and experiences may be enjoyed by families.
 
@@ -306,7 +306,7 @@ We only collect information about children where it is necessary for managing a 
 
 We do not knowingly use children's personal information for direct marketing.
 
-## 15. Changes to this Privacy Policy
+### 15. Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our business, website, booking systems, services or applicable legislation.
 
@@ -314,7 +314,7 @@ Any updates will be published on our website, with the latest revision date show
 
 We encourage you to review this page periodically.
 
-## 16. Contact us or make a complaint
+### 16. Contact us or make a complaint
 
 If you have any questions about this Privacy Policy, how we use your personal information or wish to exercise your data protection rights, please contact us:
 
